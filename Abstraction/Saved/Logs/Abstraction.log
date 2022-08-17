@@ -740,3 +740,611 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.08.17-18.00.47:503][850]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/2x1_Door_and_Frame_Door.2x1_Door_and_Frame_Door
 [2022.08.17-18.00.47:503][850]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/2x1_Door_and_Frame_Door.2x1_Door_and_Frame_Door
 [2022.08.17-18.00.47:503][850]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/2x1_Door_and_Frame_Door.2x1_Door_and_Frame_Door as actor: StaticMeshActor /Game/Maps/AbstractTestLevel.AbstractTestLevel:PersistentLevel.StaticMeshActor_1
+[2022.08.17-18.08.38:697][885]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2022.08.17-18.08.38:702][885]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.003267 seconds
+[2022.08.17-18.08.38:711][885]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/AbstractTestLevel_Auto1
+[2022.08.17-18.08.38:712][885]LogSavePackage: Moving '../../../../../../Users/jebrown/OneDrive - Activision Publishing/Documents/Unreal Projects/Abstraction/Abstraction/Saved/AbstractTestLevel_Auto102F10FC14389A396154F43B6DEDFD334.tmp' to '../../../../../../Users/jebrown/OneDrive - Activision Publishing/Documents/Unreal Projects/Abstraction/Abstraction/Saved/Autosaves/Game/Maps/AbstractTestLevel_Auto1.umap'
+[2022.08.17-18.08.38:715][885]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/AbstractTestLevel' took 0.026
+[2022.08.17-18.08.38:715][885]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.026
+[2022.08.17-18.10.23:486][836]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2022.08.17-18.10.23:495][836]LogSavePackage: Moving output files for package: /Game/Maps/AbstractTestLevel
+[2022.08.17-18.10.23:496][836]LogSavePackage: Moving '../../../../../../Users/jebrown/OneDrive - Activision Publishing/Documents/Unreal Projects/Abstraction/Abstraction/Saved/AbstractTestLevel7E72E6FB4482AE3012A18581D5EB6216.tmp' to '../../../../../../Users/jebrown/OneDrive - Activision Publishing/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/AbstractTestLevel.umap'
+[2022.08.17-18.10.23:501][836]LogFileHelpers: No new changes to save!
+[2022.08.17-18.10.23:508][836]AssetCheck: New page: Asset Save: AbstractTestLevel
+[2022.08.17-18.10.23:508][836]LogContentValidation: Display: Validating World /Game/Maps/AbstractTestLevel.AbstractTestLevel
+[2022.08.17-18.10.25:543][957]MapCheck: New page: Map Check
+[2022.08.17-18.10.25:554][957]LogSlate: Took 0.000205 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.08.17-18.10.25:559][957]Cmd: MAP REBUILD ALLVISIBLE
+[2022.08.17-18.10.25:559][957]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2022.08.17-18.10.25:560][957]LogWorld: UWorld::CleanupWorld for AbstractTestLevel, bSessionEnded=true, bCleanupResources=false
+[2022.08.17-18.10.25:572][957]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2022.08.17-18.10.25:572][957]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2022.08.17-18.10.25:572][957]LogNavigationDataBuild: Display:    Building navigation data using WITH_CHAOS.
+[2022.08.17-18.10.25:578][957]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.08.17-18.10.25:607][957]LogLevel: Display: Export Material TexCoord Scales took 0.029 seconds.
+[2022.08.17-18.10.25:608][957]TextureStreamingBuild: Display: Build Texture Streaming took 0.001 seconds.
+[2022.08.17-18.10.25:613][957]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2022.08.17-18.10.25:616][957]LightingResults: New page: Lighting Build - Aug 17, 2022, 8:10:25 AM
+[2022.08.17-18.10.25:652][957]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.08.17-18.10.25:698][957]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.08.17-18.10.25:708][957]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.08.17-18.10.26:222][957]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.08.17-18.10.26:222][957]LogSwarmInterface: [TryOpenConnection] Local Process ID is 7320
+[2022.08.17-18.10.27:255][957]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2022.08.17-18.10.27:255][957]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.08.17-18.10.27:255][957]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.08.17-18.10.27:255][957]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.08.17-18.10.27:255][957]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.08.17-18.10.27:255][957]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.08.17-18.10.27:397][957]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2022.08.17-18.10.27:398][957]MapCheck: New page: AbstractTestLevel - Aug 17, 2022, 8:10:27 AM
+[2022.08.17-18.10.27:398][957]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.384ms to complete.
+[2022.08.17-18.10.27:398][957]LogEditorBuildUtils: Build time 0:01
+[2022.08.17-18.10.27:418][957]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Wood in PCD3D_SM5, Default, SM5 (DDC key hash: 8D5646CAA7E837D0386EAF38789E4C2B6DF2FE5A), compiling. 
+[2022.08.17-18.10.27:440][957]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Wood in PCD3D_SM5, Default, SM5 (DDC key hash: AE7224DEAB997C9FEB36CC04D1E366A62C0F6983), compiling. 
+[2022.08.17-18.10.27:475][958]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Brass in PCD3D_SM5, Default, SM5 (DDC key hash: 6F5D741D5ECA891079461FEDB864DC7A25F008F1), compiling. 
+[2022.08.17-18.10.27:482][958]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Brass in PCD3D_SM5, Default, SM5 (DDC key hash: 56BF884FFA3958E96C5607F5223FEBEFE6ABE099), compiling. 
+[2022.08.17-18.10.28:726][959]LogShaderCompilers: Display: ================================================
+[2022.08.17-18.10.28:726][959]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.08.17-18.10.28:726][959]LogShaderCompilers: Display: Total job queries 8, among them cache hits 0 (0.00%)
+[2022.08.17-18.10.28:726][959]LogShaderCompilers: Display: Tracking 8 distinct input hashes that result in 3 distinct outputs (37.50%)
+[2022.08.17-18.10.28:726][959]LogShaderCompilers: Display: RAM used: 0.01 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.08.17-18.10.28:726][959]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.08.17-18.10.28:726][959]LogShaderCompilers: Display: Shaders Compiled: 4
+[2022.08.17-18.10.28:726][959]LogShaderCompilers: Display: Jobs assigned 8, completed 8 (100.00%)
+[2022.08.17-18.10.28:726][959]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.10 s
+[2022.08.17-18.10.28:726][959]LogShaderCompilers: Display: Job execution time: average 1.08 s, max 1.16 s
+[2022.08.17-18.10.28:726][959]LogShaderCompilers: Display: Job life time (pending + execution): average 1.13 s, max 1.23
+[2022.08.17-18.10.28:726][959]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.28 s
+[2022.08.17-18.10.28:726][959]LogShaderCompilers: Display: Jobs were issued in 8 batches (only local compilation was used), average 1.00 jobs/batch
+[2022.08.17-18.10.28:726][959]LogShaderCompilers: Display: Average processing rate: 6.27 jobs/sec
+[2022.08.17-18.10.28:726][959]LogShaderCompilers: Display: Effective parallelization: 4.88 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2022.08.17-18.10.28:726][959]LogShaderCompilers: Display: Top 2 most expensive shader types by average time:
+[2022.08.17-18.10.28:726][959]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    4 times, average 0.84 sec, max 0.85 sec, min 0.83 sec)
+[2022.08.17-18.10.28:726][959]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    4 times, average 0.71 sec, max 0.73 sec, min 0.70 sec)
+[2022.08.17-18.10.28:726][959]LogShaderCompilers: Display: Top 2 shader types by total compile time:
+[2022.08.17-18.10.28:726][959]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 54.04% of total time (compiled    4 times, average 0.84 sec, max 0.85 sec, min 0.83 sec)
+[2022.08.17-18.10.28:726][959]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 45.96% of total time (compiled    4 times, average 0.71 sec, max 0.73 sec, min 0.70 sec)
+[2022.08.17-18.10.28:726][959]LogShaderCompilers: Display: ================================================
+[2022.08.17-18.10.28:930][964]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.08.17-18.10.29:613][974]LogUObjectHash: Compacting FUObjectHashTables data took   0.15ms
+[2022.08.17-18.10.29:626][974]LogSavePackage: Moving output files for package: /Game/Maps/AbstractTestLevel
+[2022.08.17-18.10.29:626][974]LogSavePackage: Moving '../../../../../../Users/jebrown/OneDrive - Activision Publishing/Documents/Unreal Projects/Abstraction/Abstraction/Saved/AbstractTestLevelEA2CF43E402BEC19F31D27B465A2E091.tmp' to '../../../../../../Users/jebrown/OneDrive - Activision Publishing/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/AbstractTestLevel.umap'
+[2022.08.17-18.10.29:632][974]LogFileHelpers: No new changes to save!
+[2022.08.17-18.10.29:642][974]AssetCheck: New page: Asset Save: AbstractTestLevel
+[2022.08.17-18.10.29:642][974]LogContentValidation: Display: Validating World /Game/Maps/AbstractTestLevel.AbstractTestLevel
+[2022.08.17-18.10.30:345][ 15]Job is a success!
+[2022.08.17-18.10.30:432][ 16]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.006s
+[2022.08.17-18.10.30:432][ 16]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2022.08.17-18.10.30:432][ 16]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb
+[2022.08.17-18.10.30:432][ 16]LogVolumetricLightmapImport:      Bricks at depth
+[2022.08.17-18.10.30:432][ 16]LogVolumetricLightmapImport:          0: 10.0% covering 100.0% of volume
+[2022.08.17-18.10.30:432][ 16]LogVolumetricLightmapImport:          1: 10.0% covering 1.6% of volume
+[2022.08.17-18.10.30:432][ 16]LogVolumetricLightmapImport:          2: 80.0% covering 0.2% of volume
+[2022.08.17-18.10.30:432][ 16]LogVolumetricLightmapImport:      Bricks in each level
+[2022.08.17-18.10.30:432][ 16]LogVolumetricLightmapImport:          AbstractTestLevel 			 10 bricks 	 100.0% (Persistent Level)
+[2022.08.17-18.10.30:440][ 16]LogTexture: Display: Building textures: /Game/Maps/AbstractTestLevel_BuiltData.AbstractTestLevel_BuiltData:SkyOcclusion1_1 (TFO_AutoDXT, 256X128 X1X1) (Required Memory Estimate: 0.83334 MB), EncodeSpeed: Fast
+[2022.08.17-18.10.30:441][ 16]LogTexture: Display: Building textures: /Game/Maps/AbstractTestLevel_BuiltData.AbstractTestLevel_BuiltData:HQ_Lightmap1_1 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.08.17-18.10.30:443][ 16]LogTexture: Display: Building textures: /Game/Maps/AbstractTestLevel_BuiltData.AbstractTestLevel_BuiltData:LQ_Lightmap_1_1 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.08.17-18.10.30:445][ 16]LogTexture: Display: Building textures: /Game/Maps/AbstractTestLevel_BuiltData.AbstractTestLevel_BuiltData:SkyOcclusion1_2 (TFO_AutoDXT, 64X32 X1X1) (Required Memory Estimate: 0.05209 MB), EncodeSpeed: Fast
+[2022.08.17-18.10.30:445][ 16]LogTexture: Display: Building textures: /Game/Maps/AbstractTestLevel_BuiltData.AbstractTestLevel_BuiltData:HQ_Lightmap1_2 (TFO_AutoDXT, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.08.17-18.10.30:446][ 16]LogTexture: Display: Building textures: /Game/Maps/AbstractTestLevel_BuiltData.AbstractTestLevel_BuiltData:LQ_Lightmap_1_2 (TFO_DXT1, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.08.17-18.10.30:450][ 16]LogTexture: Display: Building textures: /Game/Maps/AbstractTestLevel_BuiltData.AbstractTestLevel_BuiltData:ShadowMapTexture2D_2 (G8, 256X128 X1X1) (Required Memory Estimate: 0.208335 MB), EncodeSpeed: Fast
+[2022.08.17-18.10.30:462][ 16]LogStaticLightingSystem: AbstractTestLevel_BuiltData storing lightmap data for 4 meshes in 2 LightmapResourceClusters (2.0 Meshes per cluster).
+[2022.08.17-18.10.30:469][ 16]LogMaterial: Display: Material /Game/Meshes/Wood.Wood needed to have new flag set bUsedWithStaticLighting !
+[2022.08.17-18.10.30:472][ 16]Lightmass on ABNA14061350: 948 ms total, 126 ms importing, 3 ms setup, 104 ms photons, 708 ms processing, 0 us extra exporting [4/4 mappings]. Threads: 13.3 sec total, 563 ms processing.
+[2022.08.17-18.10.30:472][ 16]LogMaterial: Display: Missing cached shadermap for Wood in PCD3D_SM5, Default, SM5 (DDC key hash: CA6F86710BF6B9D80B4586CF6EDB4E04B5CF0097), compiling. 
+[2022.08.17-18.10.30:528][ 16]LogMaterial: Display: Material /Game/Meshes/Brass.Brass needed to have new flag set bUsedWithStaticLighting !
+[2022.08.17-18.10.30:531][ 16]LogMaterial: Display: Missing cached shadermap for Brass in PCD3D_SM5, Default, SM5 (DDC key hash: 1E648CFBC763E876C8772B077C778E3636F5D1E0), compiling. 
+[2022.08.17-18.10.30:556][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.08.17-18.10.30:588][ 16]LogStaticLightingSystem: Illumination: 4.91 sec (9 ms encoding lightmaps, 4 ms encoding shadowmaps)
+[2022.08.17-18.10.30:588][ 16]LogStaticLightingSystem: Lightmap texture memory:  0.2 MB (0.2 MB streaming, 0.0 MB non-streaming), 4 textures
+[2022.08.17-18.10.30:588][ 16]LogStaticLightingSystem: Shadowmap texture memory: 0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 2 textures
+[2022.08.17-18.10.31:267][ 16]DumpUnbuiltLightIteractions
+[2022.08.17-18.10.31:267][ 16]Lights with unbuilt interactions: 0
+[2022.08.17-18.10.31:267][ 16]
+[2022.08.17-18.10.31:267][ 16]Primitives with unbuilt interactions: 0
+[2022.08.17-18.10.37:521][ 16]LogStall: Stall detector 'FShaderCompilingManager::BlockOnAllShaderMapCompletion' exceeded budget of 2.000000s, reporting...
+[2022.08.17-18.10.37:521][ 16]LogStall: Stall detector 'FShaderCompilingManager::BlockOnAllShaderMapCompletion' report submitted, and took 0.049966s
+[2022.08.17-18.10.37:615][ 16]LogStall: Stall detector 'FShaderCompilingManager::BlockOnAllShaderMapCompletion' complete in 0.000111s (1.384134s overbudget)
+[2022.08.17-18.10.37:729][ 16]LogTexture: Display: Building textures: /Game/Maps/AbstractTestLevel_BuiltData.AbstractTestLevel_BuiltData:NewReflectionComponentTextureD6C57B644F03DADF4F2699848FAEA3C3 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2022.08.17-18.10.37:774][ 17]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.08.17-18.10.37:774][ 17]MapCheck: New page: AbstractTestLevel - Aug 17, 2022, 8:10:37 AM
+[2022.08.17-18.10.37:774][ 17]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.269ms to complete.
+[2022.08.17-18.11.07:208][607]Running C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/DotNET/UnrealBuildTool/UnrealBuildTool.exe  -projectfiles -project="C:/Users/jebrown/OneDrive - Activision Publishing/Documents/Unreal Projects/Abstraction/Abstraction/Abstraction.uproject" -game -rocket -progress
+[2022.08.17-18.11.07:514][607]Log file: C:\Users\jebrown\AppData\Local\UnrealBuildTool\Log_GPF.txt
+[2022.08.17-18.11.07:514][607]
+[2022.08.17-18.11.07:514][607]Some Platforms were skipped due to invalid SDK setup: IOS, Android, Linux, LinuxArm64.
+[2022.08.17-18.11.07:514][607]See the log file for detailed information
+[2022.08.17-18.11.07:514][607]
+[2022.08.17-18.11.07:514][607]Discovering modules, targets and source code for project...
+[2022.08.17-18.11.08:621][607]Binding IntelliSense data...
+[2022.08.17-18.11.10:132][607]Binding IntelliSense data... 100%
+[2022.08.17-18.11.10:132][607]Writing project files...
+[2022.08.17-18.11.13:958][607]Writing project files... 100%
+[2022.08.17-18.11.18:591][642]LogLiveCoding: Display: Starting Live Coding compile.
+[2022.08.17-18.11.21:603][651]LogLiveCoding: Display:    Creating library C:\Users\jebrown\OneDrive - Activision Publishing\Documents\Unreal Projects\Abstraction\Abstraction\Binaries\Win64\UnrealEditor-Abstraction.patch_0.lib and object C:\Users\jebrown\OneDrive - Activision Publishing\Documents\Unreal Projects\Abstraction\Abstraction\Binaries\Win64\UnrealEditor-Abstraction.patch_0.exp
+[2022.08.17-18.11.21:766][651]LogClass: /Script/Abstraction Reload.
+[2022.08.17-18.11.21:767][651]LogClass: Could not find existing class DoorInteractionComponent in package /Script/Abstraction for reload, assuming new or modified class
+[2022.08.17-18.11.21:823][651]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.08.17-18.11.21:950][652]Display: Reload/Re-instancing Complete: 1 package changed, 1 class new, 1 class unchanged
+[2022.08.17-18.11.21:950][652]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2022.08.17-18.11.56:990][437]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2022.08.17-18.11.56:990][437]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2022.08.17-18.11.57:957][495]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2022.08.17-18.11.57:957][495]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2022.08.17-18.12.33:074][220]LogSlate: Window 'Choose Location for External Curve Asset' being destroyed
+[2022.08.17-18.12.44:841][914]LogAssetEditorSubsystem: Opening Asset editor for CurveFloat /Game/Curves/DoorInteraction_ExternalCurve.DoorInteraction_ExternalCurve
+[2022.08.17-18.13.28:133][502]LogSavePackage: Moving output files for package: /Game/Curves/DoorInteraction_ExternalCurve
+[2022.08.17-18.13.28:133][502]LogSavePackage: Moving '../../../../../../Users/jebrown/OneDrive - Activision Publishing/Documents/Unreal Projects/Abstraction/Abstraction/Saved/DoorInteraction_ExternalCurve98848EF240B855C212E4F7A30412F1BC.tmp' to '../../../../../../Users/jebrown/OneDrive - Activision Publishing/Documents/Unreal Projects/Abstraction/Abstraction/Content/Curves/DoorInteraction_ExternalCurve.uasset'
+[2022.08.17-18.13.28:142][502]AssetCheck: New page: Asset Save: DoorInteraction_ExternalCurve
+[2022.08.17-18.13.28:142][502]LogContentValidation: Display: Validating CurveFloat /Game/Curves/DoorInteraction_ExternalCurve.DoorInteraction_ExternalCurve
+[2022.08.17-18.13.47:412][658]LogSlate: Window 'DoorInteraction_ExternalCurve' being destroyed
+[2022.08.17-18.13.47:417][658]LogSlate: Window 'DoorInteraction_ExternalCurve' being destroyed
+[2022.08.17-18.13.48:550][725]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.08.17-18.13.48:555][725]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.17-18.13.48:555][725]PIE: New page: PIE session: AbstractTestLevel (Aug 17, 2022, 8:13:48 AM)
+[2022.08.17-18.13.48:558][725]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.08.17-18.13.48:558][725]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.08.17-18.13.48:558][725]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_AbstractTestLevel
+[2022.08.17-18.13.48:561][725]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001666s)
+[2022.08.17-18.13.48:561][725]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/AbstractTestLevel.AbstractTestLevel to /Game/Maps/UEDPIE_0_AbstractTestLevel.AbstractTestLevel (0.001726s)
+[2022.08.17-18.13.48:561][725]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.17-18.13.48:561][725]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.17-18.13.48:561][725]LogAIModule: Creating AISystem for world AbstractTestLevel
+[2022.08.17-18.13.48:561][725]LogPlayLevel: PIE: World Init took: (0.000710s)
+[2022.08.17-18.13.48:567][725]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2022.08.17-18.13.48:569][725]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.08.17-18.13.48:569][725]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.17-18.13.48:569][725]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.17-18.13.48:569][725]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.17-18.13.48:569][725]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.17-18.13.48:569][725]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.17-18.13.48:569][725]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.17-18.13.48:569][725]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.17-18.13.48:569][725]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.17-18.13.48:569][725]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.17-18.13.48:569][725]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.17-18.13.48:569][725]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.17-18.13.48:571][725]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.17-18.13.48:585][725]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.08.17-18.13.48:585][725]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.17-18.13.48:585][725]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.17-18.13.48:585][725]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.17-18.13.48:586][725]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.08.17-18.13.48:586][725]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2022.08.17-18.13.48:587][725]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.08.17-18.13.48:587][725]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.08.17-18.13.48:587][725]LogInit: FAudioDevice initialized.
+[2022.08.17-18.13.48:588][725]LogAudio: Display: Audio Device (ID: 2) registered with world 'AbstractTestLevel'.
+[2022.08.17-18.13.48:600][725]LogLoad: Game class is 'GameModeBase'
+[2022.08.17-18.13.48:600][725]LogWorld: Bringing World /Game/Maps/UEDPIE_0_AbstractTestLevel.AbstractTestLevel up for play (max tick rate 60) at 2022.08.17-13.13.48
+[2022.08.17-18.13.48:600][725]LogWorld: Bringing up level for play took: 0.000541
+[2022.08.17-18.13.48:602][725]LogOnline: OSS: Created online subsystem instance for: :Context_3
+[2022.08.17-18.13.48:612][725]PIE: Server logged in
+[2022.08.17-18.13.48:612][725]PIE: Play in editor total start time 0.058 seconds.
+[2022.08.17-18.13.54:346][ 60]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.17-18.13.54:346][ 60]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_AbstractTestLevel
+[2022.08.17-18.13.54:346][ 60]LogWorld: UWorld::CleanupWorld for AbstractTestLevel, bSessionEnded=true, bCleanupResources=true
+[2022.08.17-18.13.54:346][ 60]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-18.13.54:360][ 60]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.17-18.13.54:361][ 60]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-18.13.54:367][ 60]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.17-18.13.54:367][ 60]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.08.17-18.13.54:368][ 60]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.08.17-18.13.54:371][ 60]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.17-18.13.54:373][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2022.08.17-18.13.54:407][ 61]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2022.08.17-18.13.57:393][237]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.08.17-18.13.57:403][237]LogSavePackage: Moving output files for package: /Game/Maps/AbstractTestLevel
+[2022.08.17-18.13.57:404][237]LogSavePackage: Moving '../../../../../../Users/jebrown/OneDrive - Activision Publishing/Documents/Unreal Projects/Abstraction/Abstraction/Saved/AbstractTestLevel2F4124D54A1F68D7CB157698F5EEDEEB.tmp' to '../../../../../../Users/jebrown/OneDrive - Activision Publishing/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/AbstractTestLevel.umap'
+[2022.08.17-18.13.57:410][237]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Maps/AbstractTestLevel_BuiltData
+[2022.08.17-18.13.57:425][237]LogSavePackage: Moving output files for package: /Game/Maps/AbstractTestLevel_BuiltData
+[2022.08.17-18.13.57:426][237]LogSavePackage: Moving '../../../../../../Users/jebrown/OneDrive - Activision Publishing/Documents/Unreal Projects/Abstraction/Abstraction/Saved/AbstractTestLevel_BuiltData9491ECAE42C24E0C374BFD95BCE5C906.tmp' to '../../../../../../Users/jebrown/OneDrive - Activision Publishing/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/AbstractTestLevel_BuiltData.uasset'
+[2022.08.17-18.13.57:427][237]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Maps/AbstractTestLevel_BuiltData
+[2022.08.17-18.13.57:435][237]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.17-18.13.57:435][237]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/AbstractTestLevel_BuiltData.AbstractTestLevel_BuiltData
+[2022.08.17-18.13.57:435][237]LogContentValidation: Display: Validating World /Game/Maps/AbstractTestLevel.AbstractTestLevel
+[2022.08.17-18.13.58:201][282]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.08.17-18.13.58:211][282]LogSavePackage: Moving output files for package: /Game/Maps/AbstractTestLevel
+[2022.08.17-18.13.58:212][282]LogSavePackage: Moving '../../../../../../Users/jebrown/OneDrive - Activision Publishing/Documents/Unreal Projects/Abstraction/Abstraction/Saved/AbstractTestLevelB0BEC00741599A337DE0C28743638C41.tmp' to '../../../../../../Users/jebrown/OneDrive - Activision Publishing/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/AbstractTestLevel.umap'
+[2022.08.17-18.13.58:217][282]LogFileHelpers: No new changes to save!
+[2022.08.17-18.13.58:223][282]AssetCheck: New page: Asset Save: AbstractTestLevel
+[2022.08.17-18.13.58:223][282]LogContentValidation: Display: Validating World /Game/Maps/AbstractTestLevel.AbstractTestLevel
+[2022.08.17-18.15.09:091][158]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.08.17-18.15.49:498][550]Running C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/DotNET/UnrealBuildTool/UnrealBuildTool.exe  -projectfiles -project="C:/Users/jebrown/OneDrive - Activision Publishing/Documents/Unreal Projects/Abstraction/Abstraction/Abstraction.uproject" -game -rocket -progress
+[2022.08.17-18.15.50:525][550]Log file: C:\Users\jebrown\AppData\Local\UnrealBuildTool\Log_GPF.txt
+[2022.08.17-18.15.50:626][550]
+[2022.08.17-18.15.50:626][550]Some Platforms were skipped due to invalid SDK setup: IOS, Android, Linux, LinuxArm64.
+[2022.08.17-18.15.50:626][550]See the log file for detailed information
+[2022.08.17-18.15.50:626][550]
+[2022.08.17-18.15.50:626][550]Discovering modules, targets and source code for project...
+[2022.08.17-18.15.51:933][550]Binding IntelliSense data...
+[2022.08.17-18.15.53:547][550]Binding IntelliSense data... 100%
+[2022.08.17-18.15.53:548][550]Writing project files...
+[2022.08.17-18.15.58:277][550]Writing project files... 100%
+[2022.08.17-18.15.58:388][550]LogLiveCoding: Display: Starting Live Coding compile.
+[2022.08.17-18.15.58:536][550]LogSlate: Window 'Add C++ Class' being destroyed
+[2022.08.17-18.16.04:644][676]LogLiveCoding: Display:    Creating library C:\Users\jebrown\OneDrive - Activision Publishing\Documents\Unreal Projects\Abstraction\Abstraction\Binaries\Win64\UnrealEditor-Abstraction.patch_1.lib and object C:\Users\jebrown\OneDrive - Activision Publishing\Documents\Unreal Projects\Abstraction\Abstraction\Binaries\Win64\UnrealEditor-Abstraction.patch_1.exp
+[2022.08.17-18.16.05:164][677]LogClass: /Script/Abstraction Reload.
+[2022.08.17-18.16.05:164][677]LogClass: Could not find existing class InteractableDoor in package /Script/Abstraction for reload, assuming new or modified class
+[2022.08.17-18.16.05:193][677]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2022.08.17-18.16.05:371][678]Display: Reload/Re-instancing Complete: 1 package changed, 1 class new
+[2022.08.17-18.16.05:371][678]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2022.08.17-18.18.50:908][172]LogLiveCoding: Display: Starting Live Coding compile.
+[2022.08.17-18.18.54:916][184]LogLiveCoding: Display:    Creating library C:\Users\jebrown\OneDrive - Activision Publishing\Documents\Unreal Projects\Abstraction\Abstraction\Binaries\Win64\UnrealEditor-Abstraction.patch_2.lib and object C:\Users\jebrown\OneDrive - Activision Publishing\Documents\Unreal Projects\Abstraction\Abstraction\Binaries\Win64\UnrealEditor-Abstraction.patch_2.exp
+[2022.08.17-18.18.55:348][185]LogClass: InteractableDoor Reload.
+[2022.08.17-18.18.55:349][185]LogClass: Could not find existing class InteractableDoor in package /Script/Abstraction for reload, assuming new or modified class
+[2022.08.17-18.18.55:352][185]Re-instancing InteractableDoor after reload.
+[2022.08.17-18.18.55:378][185]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.08.17-18.18.55:584][186]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed
+[2022.08.17-18.18.55:584][186]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2022.08.17-18.19.25:506][275]LogLiveCoding: Display: Starting Live Coding compile.
+[2022.08.17-18.19.29:859][288]LogLiveCoding: Display:    Creating library C:\Users\jebrown\OneDrive - Activision Publishing\Documents\Unreal Projects\Abstraction\Abstraction\Binaries\Win64\UnrealEditor-Abstraction.patch_3.lib and object C:\Users\jebrown\OneDrive - Activision Publishing\Documents\Unreal Projects\Abstraction\Abstraction\Binaries\Win64\UnrealEditor-Abstraction.patch_3.exp
+[2022.08.17-18.19.29:975][288]LogClass: /Script/Abstraction Reload.
+[2022.08.17-18.19.29:975][288]LogClass: InteractableDoor Reload.
+[2022.08.17-18.19.29:975][288]LogClass: Could not find existing class InteractableDoor in package /Script/Abstraction for reload, assuming new or modified class
+[2022.08.17-18.19.29:978][288]Re-instancing InteractableDoor after reload.
+[2022.08.17-18.19.30:003][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.08.17-18.19.30:198][289]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed
+[2022.08.17-18.19.30:199][289]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2022.08.17-18.19.48:373][ 28]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.08.17-18.19.58:747][ 28]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.08.17-18.19.58:754][ 28]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.08.17-18.19.58:758][ 28]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.08.17-18.19.58:783][ 30]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2022.08.17-18.20.08:039][575]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_InteractableDoor
+[2022.08.17-18.20.08:043][575]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.08.17-18.20.11:125][760]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Actors/BP_InteractableDoor.BP_InteractableDoor
+[2022.08.17-18.20.11:125][760]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.17-18.20.11:832][760]LogViewport: Scene viewport resized to 601x339, mode Windowed.
+[2022.08.17-18.20.29:876][838]LogSlate: Took 0.000223 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.08.17-18.20.46:809][851]BlueprintLog: New page: Compile BP_InteractableDoor
+[2022.08.17-18.20.46:843][851]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.08.17-18.20.48:653][957]LogSavePackage: Moving output files for package: /Game/Actors/BP_InteractableDoor
+[2022.08.17-18.20.48:653][957]LogSavePackage: Moving '../../../../../../Users/jebrown/OneDrive - Activision Publishing/Documents/Unreal Projects/Abstraction/Abstraction/Saved/BP_InteractableDoor15A947F34207BE496EE949B6E123C4A1.tmp' to '../../../../../../Users/jebrown/OneDrive - Activision Publishing/Documents/Unreal Projects/Abstraction/Abstraction/Content/Actors/BP_InteractableDoor.uasset'
+[2022.08.17-18.20.48:662][957]AssetCheck: New page: Asset Save: BP_InteractableDoor
+[2022.08.17-18.20.48:662][957]LogContentValidation: Display: Validating Blueprint /Game/Actors/BP_InteractableDoor.BP_InteractableDoor
+[2022.08.17-18.20.56:614][434]LogSlate: Window 'BP_InteractableDoor' being destroyed
+[2022.08.17-18.20.56:619][434]LogSlate: Window 'BP_InteractableDoor' being destroyed
+[2022.08.17-18.20.56:656][434]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.08.17-18.20.56:656][434]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-18.21.15:688][568]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Actors/BP_InteractableDoor.BP_InteractableDoor_C
+[2022.08.17-18.21.15:688][568]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Actors/BP_InteractableDoor.BP_InteractableDoor_C
+[2022.08.17-18.21.15:689][568]LogActorFactory: Actor Factory spawned Blueprint /Game/Actors/BP_InteractableDoor.BP_InteractableDoor as actor: BP_InteractableDoor_C /Game/Maps/AbstractTestLevel.AbstractTestLevel:PersistentLevel.BP_InteractableDoor_C_0
+[2022.08.17-18.21.15:689][568]LogActorFactory: Actor Factory spawned Blueprint /Game/Actors/BP_InteractableDoor.BP_InteractableDoor as actor: BP_InteractableDoor_C /Game/Maps/AbstractTestLevel.AbstractTestLevel:PersistentLevel.BP_InteractableDoor_C_0
+[2022.08.17-18.21.17:522][678]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Actors/BP_InteractableDoor.BP_InteractableDoor_C
+[2022.08.17-18.21.17:523][678]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Actors/BP_InteractableDoor.BP_InteractableDoor_C
+[2022.08.17-18.21.17:523][678]LogActorFactory: Actor Factory spawned Blueprint /Game/Actors/BP_InteractableDoor.BP_InteractableDoor as actor: BP_InteractableDoor_C /Game/Maps/AbstractTestLevel.AbstractTestLevel:PersistentLevel.BP_InteractableDoor_C_1
+[2022.08.17-18.21.17:523][678]LogActorFactory: Actor Factory spawned Blueprint /Game/Actors/BP_InteractableDoor.BP_InteractableDoor as actor: BP_InteractableDoor_C /Game/Maps/AbstractTestLevel.AbstractTestLevel:PersistentLevel.BP_InteractableDoor_C_1
+[2022.08.17-18.21.26:531][217]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Actors/BP_InteractableDoor.BP_InteractableDoor
+[2022.08.17-18.21.26:531][217]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.17-18.21.30:597][445]LogSlate: Window 'BP_InteractableDoor' being destroyed
+[2022.08.17-18.21.30:608][445]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.08.17-18.21.30:608][445]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-18.21.30:640][445]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Actors/BP_InteractableDoor.BP_InteractableDoor
+[2022.08.17-18.21.30:640][445]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.17-18.21.37:029][810]BlueprintLog: New page: Compile BP_InteractableDoor
+[2022.08.17-18.21.37:076][810]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.08.17-18.21.38:177][872]LogSavePackage: Moving output files for package: /Game/Actors/BP_InteractableDoor
+[2022.08.17-18.21.38:178][872]LogSavePackage: Moving '../../../../../../Users/jebrown/OneDrive - Activision Publishing/Documents/Unreal Projects/Abstraction/Abstraction/Saved/BP_InteractableDoor62A8BCB8498EEB074883588362174164.tmp' to '../../../../../../Users/jebrown/OneDrive - Activision Publishing/Documents/Unreal Projects/Abstraction/Abstraction/Content/Actors/BP_InteractableDoor.uasset'
+[2022.08.17-18.21.38:189][872]AssetCheck: New page: Asset Save: BP_InteractableDoor
+[2022.08.17-18.21.38:189][872]LogContentValidation: Display: Validating Blueprint /Game/Actors/BP_InteractableDoor.BP_InteractableDoor
+[2022.08.17-18.21.40:516][ 12]LogSlate: Window 'BP_InteractableDoor' being destroyed
+[2022.08.17-18.21.40:522][ 12]LogSlate: Window 'BP_InteractableDoor' being destroyed
+[2022.08.17-18.21.40:526][ 12]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.08.17-18.21.40:526][ 12]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-18.21.45:084][276]Cmd: DELETE
+[2022.08.17-18.21.45:084][276]Cmd: ACTOR DELETE
+[2022.08.17-18.21.45:085][276]LogEditorActor: Deleted Actor: BP_InteractableDoor_C
+[2022.08.17-18.21.45:103][276]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.08.17-18.21.45:105][276]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2022.08.17-18.21.47:051][389]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Actors/BP_InteractableDoor.BP_InteractableDoor_C
+[2022.08.17-18.21.47:051][389]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Actors/BP_InteractableDoor.BP_InteractableDoor_C
+[2022.08.17-18.21.47:052][389]LogActorFactory: Actor Factory spawned Blueprint /Game/Actors/BP_InteractableDoor.BP_InteractableDoor as actor: BP_InteractableDoor_C /Game/Maps/AbstractTestLevel.AbstractTestLevel:PersistentLevel.BP_InteractableDoor_C_2
+[2022.08.17-18.21.47:052][389]LogActorFactory: Actor Factory spawned Blueprint /Game/Actors/BP_InteractableDoor.BP_InteractableDoor as actor: BP_InteractableDoor_C /Game/Maps/AbstractTestLevel.AbstractTestLevel:PersistentLevel.BP_InteractableDoor_C_2
+[2022.08.17-18.21.50:705][608]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Actors/BP_InteractableDoor.BP_InteractableDoor_C
+[2022.08.17-18.21.50:705][608]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Actors/BP_InteractableDoor.BP_InteractableDoor_C
+[2022.08.17-18.21.50:706][608]LogActorFactory: Actor Factory spawned Blueprint /Game/Actors/BP_InteractableDoor.BP_InteractableDoor as actor: BP_InteractableDoor_C /Game/Maps/AbstractTestLevel.AbstractTestLevel:PersistentLevel.BP_InteractableDoor_C_3
+[2022.08.17-18.21.50:706][608]LogActorFactory: Actor Factory spawned Blueprint /Game/Actors/BP_InteractableDoor.BP_InteractableDoor as actor: BP_InteractableDoor_C /Game/Maps/AbstractTestLevel.AbstractTestLevel:PersistentLevel.BP_InteractableDoor_C_3
+[2022.08.17-18.21.56:133][925]Cmd: DELETE
+[2022.08.17-18.21.56:133][925]Cmd: ACTOR DELETE
+[2022.08.17-18.21.56:134][925]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.08.17-18.21.56:151][925]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.08.17-18.21.56:153][925]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2022.08.17-18.21.59:588][126]Cmd: DELETE
+[2022.08.17-18.21.59:589][126]Cmd: ACTOR DELETE
+[2022.08.17-18.21.59:590][126]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.08.17-18.21.59:606][126]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.08.17-18.21.59:607][126]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2022.08.17-18.22.18:153][927]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2022.08.17-18.22.18:153][927]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2022.08.17-18.22.20:604][ 73]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2022.08.17-18.22.20:604][ 73]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2022.08.17-18.22.34:727][912]Cmd: DELETE
+[2022.08.17-18.22.34:727][912]Cmd: ACTOR DELETE
+[2022.08.17-18.22.34:728][912]LogEditorActor: Deleted Actor: TriggerBox
+[2022.08.17-18.22.34:745][912]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.08.17-18.22.34:747][912]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2022.08.17-18.22.58:096][310]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TriggerBox
+[2022.08.17-18.22.58:096][310]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TriggerBox
+[2022.08.17-18.22.58:096][310]LogActorFactory: Actor Factory spawned Class /Script/Engine.TriggerBox as actor: TriggerBox /Game/Maps/AbstractTestLevel.AbstractTestLevel:PersistentLevel.TriggerBox_0
+[2022.08.17-18.22.58:097][310]LogActorFactory: Actor Factory spawned Class /Script/Engine.TriggerBox as actor: TriggerBox /Game/Maps/AbstractTestLevel.AbstractTestLevel:PersistentLevel.TriggerBox_0
+[2022.08.17-18.23.00:864][476]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TriggerBox
+[2022.08.17-18.23.00:864][476]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TriggerBox
+[2022.08.17-18.23.00:864][476]LogActorFactory: Actor Factory spawned Class /Script/Engine.TriggerBox as actor: TriggerBox /Game/Maps/AbstractTestLevel.AbstractTestLevel:PersistentLevel.TriggerBox_1
+[2022.08.17-18.23.00:864][476]LogActorFactory: Actor Factory spawned Class /Script/Engine.TriggerBox as actor: TriggerBox /Game/Maps/AbstractTestLevel.AbstractTestLevel:PersistentLevel.TriggerBox_1
+[2022.08.17-18.24.01:956][340]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.08.17-18.24.01:969][340]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/AbstractTestLevel_Auto2
+[2022.08.17-18.24.01:970][340]LogSavePackage: Moving '../../../../../../Users/jebrown/OneDrive - Activision Publishing/Documents/Unreal Projects/Abstraction/Abstraction/Saved/AbstractTestLevel_Auto2F0593921436433D87DF3A5A67C99696E.tmp' to '../../../../../../Users/jebrown/OneDrive - Activision Publishing/Documents/Unreal Projects/Abstraction/Abstraction/Saved/Autosaves/Game/Maps/AbstractTestLevel_Auto2.umap'
+[2022.08.17-18.24.01:973][340]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/AbstractTestLevel' took 0.031
+[2022.08.17-18.24.01:973][340]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.031
+[2022.08.17-18.24.01:973][340]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/Brass] ([1] browsable assets)...
+[2022.08.17-18.24.01:994][340]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Meshes/Brass.Brass]
+[2022.08.17-18.24.01:994][340]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/Brass]
+[2022.08.17-18.24.01:996][340]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Meshes/Brass_Auto2
+[2022.08.17-18.24.01:996][340]LogSavePackage: Moving '../../../../../../Users/jebrown/OneDrive - Activision Publishing/Documents/Unreal Projects/Abstraction/Abstraction/Saved/Brass_Auto26301C33649EE4E7EC548219BA1DEDF9A.tmp' to '../../../../../../Users/jebrown/OneDrive - Activision Publishing/Documents/Unreal Projects/Abstraction/Abstraction/Saved/Autosaves/Game/Meshes/Brass_Auto2.uasset'
+[2022.08.17-18.24.01:997][340]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/Wood] ([1] browsable assets)...
+[2022.08.17-18.24.02:004][340]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Meshes/Wood.Wood]
+[2022.08.17-18.24.02:004][340]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/Wood]
+[2022.08.17-18.24.02:006][340]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Meshes/Wood_Auto2
+[2022.08.17-18.24.02:006][340]LogSavePackage: Moving '../../../../../../Users/jebrown/OneDrive - Activision Publishing/Documents/Unreal Projects/Abstraction/Abstraction/Saved/Wood_Auto22DDF4A234C545E41CE9AAEBD6B58F22C.tmp' to '../../../../../../Users/jebrown/OneDrive - Activision Publishing/Documents/Unreal Projects/Abstraction/Abstraction/Saved/Autosaves/Game/Meshes/Wood_Auto2.uasset'
+[2022.08.17-18.24.02:007][340]LogFileHelpers: Auto-saving content packages took 0.034
+[2022.08.17-18.24.07:333][659]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.08.17-18.24.07:337][659]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.17-18.24.07:338][659]PIE: New page: PIE session: AbstractTestLevel (Aug 17, 2022, 8:24:07 AM)
+[2022.08.17-18.24.07:338][659]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_AbstractTestLevel
+[2022.08.17-18.24.07:340][659]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002084s)
+[2022.08.17-18.24.07:340][659]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/AbstractTestLevel.AbstractTestLevel to /Game/Maps/UEDPIE_0_AbstractTestLevel.AbstractTestLevel (0.002162s)
+[2022.08.17-18.24.07:340][659]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.17-18.24.07:340][659]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.17-18.24.07:340][659]LogAIModule: Creating AISystem for world AbstractTestLevel
+[2022.08.17-18.24.07:340][659]LogPlayLevel: PIE: World Init took: (0.000552s)
+[2022.08.17-18.24.07:355][659]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.08.17-18.24.07:356][659]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.08.17-18.24.07:356][659]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.17-18.24.07:356][659]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.17-18.24.07:356][659]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.17-18.24.07:356][659]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.17-18.24.07:356][659]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.17-18.24.07:356][659]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.17-18.24.07:356][659]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.17-18.24.07:356][659]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.17-18.24.07:357][659]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.17-18.24.07:357][659]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.17-18.24.07:357][659]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.17-18.24.07:358][659]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.17-18.24.07:371][659]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.08.17-18.24.07:372][659]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.17-18.24.07:372][659]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.17-18.24.07:372][659]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.17-18.24.07:373][659]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2022.08.17-18.24.07:373][659]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2022.08.17-18.24.07:374][659]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2022.08.17-18.24.07:374][659]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2022.08.17-18.24.07:374][659]LogInit: FAudioDevice initialized.
+[2022.08.17-18.24.07:374][659]LogAudio: Display: Audio Device (ID: 3) registered with world 'AbstractTestLevel'.
+[2022.08.17-18.24.07:390][659]LogLoad: Game class is 'GameModeBase'
+[2022.08.17-18.24.07:390][659]LogWorld: Bringing World /Game/Maps/UEDPIE_0_AbstractTestLevel.AbstractTestLevel up for play (max tick rate 60) at 2022.08.17-13.24.07
+[2022.08.17-18.24.07:390][659]LogWorld: Bringing up level for play took: 0.000516
+[2022.08.17-18.24.07:392][659]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2022.08.17-18.24.07:393][659]PIE: Server logged in
+[2022.08.17-18.24.07:393][659]PIE: Play in editor total start time 0.056 seconds.
+[2022.08.17-18.24.20:086][415]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.17-18.24.20:086][415]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_AbstractTestLevel
+[2022.08.17-18.24.20:086][415]LogWorld: UWorld::CleanupWorld for AbstractTestLevel, bSessionEnded=true, bCleanupResources=true
+[2022.08.17-18.24.20:086][415]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-18.24.20:098][415]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.17-18.24.20:101][415]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-18.24.20:116][415]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.17-18.24.20:117][415]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.08.17-18.24.20:118][415]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.08.17-18.24.20:123][415]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.08.17-18.24.20:168][417]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2022.08.17-18.24.33:195][197]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2022.08.17-18.24.33:195][197]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2022.08.17-18.24.38:201][497]MapCheck: New page: Map Check
+[2022.08.17-18.24.38:216][497]Cmd: MAP REBUILD ALLVISIBLE
+[2022.08.17-18.24.38:217][497]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2022.08.17-18.24.38:217][497]LogWorld: Warning: UWorld::CleanupWorld called twice or called without InitWorld called first.
+[2022.08.17-18.24.38:217][497]LogWorld: UWorld::CleanupWorld for AbstractTestLevel, bSessionEnded=true, bCleanupResources=false
+[2022.08.17-18.24.38:226][497]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2022.08.17-18.24.38:226][497]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2022.08.17-18.24.38:226][497]LogNavigationDataBuild: Display:    Building navigation data using WITH_CHAOS.
+[2022.08.17-18.24.38:243][497]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.08.17-18.24.38:249][497]LogLevel: Display: Export Material TexCoord Scales took 0.002 seconds.
+[2022.08.17-18.24.38:251][497]TextureStreamingBuild: Display: Build Texture Streaming took 0.002 seconds.
+[2022.08.17-18.24.38:266][497]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.08.17-18.24.38:268][497]LightingResults: New page: Lighting Build - Aug 17, 2022, 8:24:38 AM
+[2022.08.17-18.24.38:274][497]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.08.17-18.24.38:276][497]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.08.17-18.24.38:277][497]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.08.17-18.24.38:277][497]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.08.17-18.24.38:277][497]LogSwarmInterface: [TryOpenConnection] Local Process ID is 7320
+[2022.08.17-18.24.40:319][497]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2022.08.17-18.24.40:319][497]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.08.17-18.24.40:319][497]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.08.17-18.24.40:319][497]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.08.17-18.24.40:319][497]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.08.17-18.24.40:319][497]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.08.17-18.24.40:470][497]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2022.08.17-18.24.40:470][497]MapCheck: New page: AbstractTestLevel - Aug 17, 2022, 8:24:40 AM
+[2022.08.17-18.24.40:470][497]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.352ms to complete.
+[2022.08.17-18.24.40:470][497]LogEditorBuildUtils: Build time 0:02
+[2022.08.17-18.24.40:496][497]LogShaderCompilers: Display: ================================================
+[2022.08.17-18.24.40:496][497]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.08.17-18.24.40:496][497]LogShaderCompilers: Display: Total job queries 58, among them cache hits 0 (0.00%)
+[2022.08.17-18.24.40:496][497]LogShaderCompilers: Display: Tracking 58 distinct input hashes that result in 22 distinct outputs (37.93%)
+[2022.08.17-18.24.40:496][497]LogShaderCompilers: Display: RAM used: 0.06 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.08.17-18.24.40:496][497]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.08.17-18.24.40:496][497]LogShaderCompilers: Display: Shaders Compiled: 54
+[2022.08.17-18.24.40:496][497]LogShaderCompilers: Display: Jobs assigned 58, completed 58 (100.00%)
+[2022.08.17-18.24.40:496][497]LogShaderCompilers: Display: Average time worker was idle: 0.56 s
+[2022.08.17-18.24.40:496][497]LogShaderCompilers: Display: Time job spent in pending queue: average 1.57 s, longest 5.75 s
+[2022.08.17-18.24.40:496][497]LogShaderCompilers: Display: Job execution time: average 2.78 s, max 4.63 s
+[2022.08.17-18.24.40:496][497]LogShaderCompilers: Display: Job life time (pending + execution): average 4.35 s, max 6.96
+[2022.08.17-18.24.40:496][497]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 8.26 s
+[2022.08.17-18.24.40:496][497]LogShaderCompilers: Display: Jobs were issued in 39 batches (only local compilation was used), average 1.49 jobs/batch
+[2022.08.17-18.24.40:496][497]LogShaderCompilers: Display: Average processing rate: 7.02 jobs/sec
+[2022.08.17-18.24.40:497][497]LogShaderCompilers: Display: Effective parallelization: 6.56 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2022.08.17-18.24.40:497][497]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.08.17-18.24.40:497][497]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    2 times, average 1.28 sec, max 1.46 sec, min 1.10 sec)
+[2022.08.17-18.24.40:497][497]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight (compiled    2 times, average 1.19 sec, max 1.40 sec, min 0.97 sec)
+[2022.08.17-18.24.40:497][497]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    2 times, average 1.16 sec, max 1.18 sec, min 1.14 sec)
+[2022.08.17-18.24.40:497][497]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyLQ (compiled    2 times, average 1.15 sec, max 1.31 sec, min 1.00 sec)
+[2022.08.17-18.24.40:497][497]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyHQSkylight (compiled    2 times, average 1.12 sec, max 1.31 sec, min 0.93 sec)
+[2022.08.17-18.24.40:497][497]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.08.17-18.24.40:497][497]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 9.55% of total time (compiled    6 times, average 0.86 sec, max 0.96 sec, min 0.83 sec)
+[2022.08.17-18.24.40:497][497]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 8.28% of total time (compiled    6 times, average 0.75 sec, max 1.03 sec, min 0.60 sec)
+[2022.08.17-18.24.40:497][497]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy - 4.71% of total time (compiled    2 times, average 1.28 sec, max 1.46 sec, min 1.10 sec)
+[2022.08.17-18.24.40:497][497]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight - 4.38% of total time (compiled    2 times, average 1.19 sec, max 1.40 sec, min 0.97 sec)
+[2022.08.17-18.24.40:497][497]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 4.27% of total time (compiled    2 times, average 1.16 sec, max 1.18 sec, min 1.14 sec)
+[2022.08.17-18.24.40:497][497]LogShaderCompilers: Display: ================================================
+[2022.08.17-18.24.40:619][499]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.08.17-18.24.42:392][566]Job is a success!
+[2022.08.17-18.24.42:483][567]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.006s
+[2022.08.17-18.24.42:483][567]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2022.08.17-18.24.42:483][567]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb
+[2022.08.17-18.24.42:483][567]LogVolumetricLightmapImport:      Bricks at depth
+[2022.08.17-18.24.42:483][567]LogVolumetricLightmapImport:          0: 10.0% covering 100.0% of volume
+[2022.08.17-18.24.42:483][567]LogVolumetricLightmapImport:          1: 10.0% covering 1.6% of volume
+[2022.08.17-18.24.42:483][567]LogVolumetricLightmapImport:          2: 80.0% covering 0.2% of volume
+[2022.08.17-18.24.42:483][567]LogVolumetricLightmapImport:      Bricks in each level
+[2022.08.17-18.24.42:483][567]LogVolumetricLightmapImport:          AbstractTestLevel 			 10 bricks 	 100.0% (Persistent Level)
+[2022.08.17-18.24.42:489][567]LogTexture: Display: Building textures: /Game/Maps/AbstractTestLevel_BuiltData.AbstractTestLevel_BuiltData:SkyOcclusion0_1 (TFO_AutoDXT, 256X128 X1X1) (Required Memory Estimate: 0.83334 MB), EncodeSpeed: Fast
+[2022.08.17-18.24.42:491][567]LogTexture: Display: Building textures: /Game/Maps/AbstractTestLevel_BuiltData.AbstractTestLevel_BuiltData:HQ_Lightmap0_1 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.08.17-18.24.42:492][567]LogTexture: Display: Building textures: /Game/Maps/AbstractTestLevel_BuiltData.AbstractTestLevel_BuiltData:LQ_Lightmap_0_1 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.08.17-18.24.42:494][567]LogTexture: Display: Building textures: /Game/Maps/AbstractTestLevel_BuiltData.AbstractTestLevel_BuiltData:SkyOcclusion0_2 (TFO_AutoDXT, 64X32 X1X1) (Required Memory Estimate: 0.05209 MB), EncodeSpeed: Fast
+[2022.08.17-18.24.42:494][567]LogTexture: Display: Building textures: /Game/Maps/AbstractTestLevel_BuiltData.AbstractTestLevel_BuiltData:HQ_Lightmap0_2 (TFO_AutoDXT, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.08.17-18.24.42:495][567]LogTexture: Display: Building textures: /Game/Maps/AbstractTestLevel_BuiltData.AbstractTestLevel_BuiltData:LQ_Lightmap_0_2 (TFO_DXT1, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.08.17-18.24.42:502][567]LogStaticLightingSystem: AbstractTestLevel_BuiltData storing lightmap data for 3 meshes in 2 LightmapResourceClusters (1.5 Meshes per cluster).
+[2022.08.17-18.24.42:526][567]Lightmass on ABNA14061350: 1.23 sec total, 125 ms importing, 4 ms setup, 99 ms photons, 998 ms processing, 0 us extra exporting [3/3 mappings]. Threads: 18.9 sec total, 1.04 sec processing.
+[2022.08.17-18.24.42:526][567]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.08.17-18.24.42:554][567]LogStaticLightingSystem: Illumination: 4.23 sec (8 ms encoding lightmaps, 5 ms encoding shadowmaps)
+[2022.08.17-18.24.42:554][567]LogStaticLightingSystem: Lightmap texture memory:  0.2 MB (0.2 MB streaming, 0.0 MB non-streaming), 4 textures
+[2022.08.17-18.24.42:554][567]LogStaticLightingSystem: Shadowmap texture memory: 0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 2 textures
+[2022.08.17-18.24.43:328][567]DumpUnbuiltLightIteractions
+[2022.08.17-18.24.43:328][567]Lights with unbuilt interactions: 0
+[2022.08.17-18.24.43:328][567]
+[2022.08.17-18.24.43:328][567]Primitives with unbuilt interactions: 0
+[2022.08.17-18.24.43:384][567]LogTexture: Display: Building textures: /Game/Maps/AbstractTestLevel_BuiltData.AbstractTestLevel_BuiltData:NewReflectionComponentTextureD6C57B644F03DADF4F2699848FAEA3C3 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2022.08.17-18.24.43:421][568]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.08.17-18.24.43:421][568]MapCheck: New page: AbstractTestLevel - Aug 17, 2022, 8:24:43 AM
+[2022.08.17-18.24.43:421][568]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.338ms to complete.
+[2022.08.17-18.24.47:605][819]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.08.17-18.24.47:610][819]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.17-18.24.47:610][819]PIE: New page: PIE session: AbstractTestLevel (Aug 17, 2022, 8:24:47 AM)
+[2022.08.17-18.24.47:610][819]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_AbstractTestLevel
+[2022.08.17-18.24.47:611][819]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001755s)
+[2022.08.17-18.24.47:611][819]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/AbstractTestLevel.AbstractTestLevel to /Game/Maps/UEDPIE_0_AbstractTestLevel.AbstractTestLevel (0.001819s)
+[2022.08.17-18.24.47:611][819]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.17-18.24.47:612][819]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.17-18.24.47:612][819]LogAIModule: Creating AISystem for world AbstractTestLevel
+[2022.08.17-18.24.47:612][819]LogPlayLevel: PIE: World Init took: (0.000546s)
+[2022.08.17-18.24.47:627][819]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.08.17-18.24.47:628][819]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.08.17-18.24.47:628][819]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.17-18.24.47:628][819]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.17-18.24.47:628][819]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.17-18.24.47:628][819]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.17-18.24.47:628][819]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.17-18.24.47:628][819]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.17-18.24.47:628][819]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.17-18.24.47:628][819]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.17-18.24.47:628][819]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.17-18.24.47:628][819]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.17-18.24.47:628][819]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.17-18.24.47:630][819]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.17-18.24.47:643][819]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.08.17-18.24.47:643][819]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.17-18.24.47:643][819]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.17-18.24.47:643][819]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.17-18.24.47:644][819]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2022.08.17-18.24.47:644][819]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2022.08.17-18.24.47:645][819]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2022.08.17-18.24.47:645][819]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2022.08.17-18.24.47:645][819]LogInit: FAudioDevice initialized.
+[2022.08.17-18.24.47:645][819]LogAudio: Display: Audio Device (ID: 4) registered with world 'AbstractTestLevel'.
+[2022.08.17-18.24.47:655][819]LogLoad: Game class is 'GameModeBase'
+[2022.08.17-18.24.47:655][819]LogWorld: Bringing World /Game/Maps/UEDPIE_0_AbstractTestLevel.AbstractTestLevel up for play (max tick rate 60) at 2022.08.17-13.24.47
+[2022.08.17-18.24.47:655][819]LogWorld: Bringing up level for play took: 0.000509
+[2022.08.17-18.24.47:657][819]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2022.08.17-18.24.47:658][819]PIE: Server logged in
+[2022.08.17-18.24.47:659][819]PIE: Play in editor total start time 0.05 seconds.
+[2022.08.17-18.24.55:285][271]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.17-18.24.55:285][271]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_AbstractTestLevel
+[2022.08.17-18.24.55:285][271]LogWorld: UWorld::CleanupWorld for AbstractTestLevel, bSessionEnded=true, bCleanupResources=true
+[2022.08.17-18.24.55:285][271]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-18.24.55:295][271]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.17-18.24.55:298][271]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-18.24.55:312][271]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.17-18.24.55:313][271]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.08.17-18.24.55:314][271]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.08.17-18.24.55:317][271]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.17-18.24.55:318][271]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.08.17-18.24.55:355][272]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2022.08.17-18.24.58:831][480]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.08.17-18.24.58:835][480]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.17-18.24.58:835][480]PIE: New page: PIE session: AbstractTestLevel (Aug 17, 2022, 8:24:58 AM)
+[2022.08.17-18.24.58:856][480]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_AbstractTestLevel
+[2022.08.17-18.24.58:857][480]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001797s)
+[2022.08.17-18.24.58:858][480]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/AbstractTestLevel.AbstractTestLevel to /Game/Maps/UEDPIE_0_AbstractTestLevel.AbstractTestLevel (0.001917s)
+[2022.08.17-18.24.58:858][480]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.17-18.24.58:858][480]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.17-18.24.58:858][480]LogAIModule: Creating AISystem for world AbstractTestLevel
+[2022.08.17-18.24.58:858][480]LogPlayLevel: PIE: World Init took: (0.000665s)
+[2022.08.17-18.24.58:876][480]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.08.17-18.24.58:876][480]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.08.17-18.24.58:876][480]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.17-18.24.58:876][480]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.17-18.24.58:876][480]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.17-18.24.58:876][480]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.17-18.24.58:876][480]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.17-18.24.58:876][480]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.17-18.24.58:876][480]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.17-18.24.58:876][480]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.17-18.24.58:877][480]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.17-18.24.58:877][480]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.17-18.24.58:877][480]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.17-18.24.58:879][480]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.17-18.24.58:890][480]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.08.17-18.24.58:890][480]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.17-18.24.58:890][480]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.17-18.24.58:890][480]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.17-18.24.58:891][480]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2022.08.17-18.24.58:891][480]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2022.08.17-18.24.58:892][480]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2022.08.17-18.24.58:892][480]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2022.08.17-18.24.58:892][480]LogInit: FAudioDevice initialized.
+[2022.08.17-18.24.58:892][480]LogAudio: Display: Audio Device (ID: 5) registered with world 'AbstractTestLevel'.
+[2022.08.17-18.24.58:900][480]LogLoad: Game class is 'GameModeBase'
+[2022.08.17-18.24.58:900][480]LogWorld: Bringing World /Game/Maps/UEDPIE_0_AbstractTestLevel.AbstractTestLevel up for play (max tick rate 60) at 2022.08.17-13.24.58
+[2022.08.17-18.24.58:900][480]LogWorld: Bringing up level for play took: 0.000539
+[2022.08.17-18.24.58:901][480]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2022.08.17-18.24.58:903][480]PIE: Server logged in
+[2022.08.17-18.24.58:903][480]PIE: Play in editor total start time 0.068 seconds.
+[2022.08.17-18.25.03:906][775]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.17-18.25.03:906][775]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_AbstractTestLevel
+[2022.08.17-18.25.03:906][775]LogWorld: UWorld::CleanupWorld for AbstractTestLevel, bSessionEnded=true, bCleanupResources=true
+[2022.08.17-18.25.03:906][775]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-18.25.03:916][775]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.17-18.25.03:920][775]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-18.25.03:936][775]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.17-18.25.03:937][775]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.08.17-18.25.03:938][775]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.08.17-18.25.03:947][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.08.17-18.25.03:993][776]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.08.17-18.25.08:938][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.08.17-18.25.08:948][ 70]LogSavePackage: Moving output files for package: /Game/Maps/AbstractTestLevel
+[2022.08.17-18.25.08:949][ 70]LogSavePackage: Moving '../../../../../../Users/jebrown/OneDrive - Activision Publishing/Documents/Unreal Projects/Abstraction/Abstraction/Saved/AbstractTestLevel0C9FE97A49195D9EEF33C4AD3137B1E2.tmp' to '../../../../../../Users/jebrown/OneDrive - Activision Publishing/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/AbstractTestLevel.umap'
+[2022.08.17-18.25.08:955][ 70]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Maps/AbstractTestLevel_BuiltData
+[2022.08.17-18.25.08:967][ 70]LogSavePackage: Moving output files for package: /Game/Maps/AbstractTestLevel_BuiltData
+[2022.08.17-18.25.08:968][ 70]LogSavePackage: Moving '../../../../../../Users/jebrown/OneDrive - Activision Publishing/Documents/Unreal Projects/Abstraction/Abstraction/Saved/AbstractTestLevel_BuiltDataAC115074423DE92E90E308BF9102AB44.tmp' to '../../../../../../Users/jebrown/OneDrive - Activision Publishing/Documents/Unreal Projects/Abstraction/Abstraction/Content/Maps/AbstractTestLevel_BuiltData.uasset'
+[2022.08.17-18.25.08:969][ 70]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Maps/AbstractTestLevel_BuiltData
+[2022.08.17-18.25.08:978][ 70]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.17-18.25.08:978][ 70]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/AbstractTestLevel_BuiltData.AbstractTestLevel_BuiltData
+[2022.08.17-18.25.08:978][ 70]LogContentValidation: Display: Validating World /Game/Maps/AbstractTestLevel.AbstractTestLevel

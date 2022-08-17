@@ -53,10 +53,16 @@
     <ClCompile Include="..\..\Source\Abstraction\Private\DoorInteractionComponent.cpp">
       <Filter>Source\Abstraction\Private</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\Source\Abstraction\Private\InteractableDoor.cpp">
+      <Filter>Source\Abstraction\Private</Filter>
+    </ClCompile>
     <Filter Include="Source\Abstraction\Public">
       <UniqueIdentifier>{FA48B633-35A4-329B-B421-D6C27205FD3F}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Source\Abstraction\Public\DoorInteractionComponent.h">
+      <Filter>Source\Abstraction\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Abstraction\Public\InteractableDoor.h">
       <Filter>Source\Abstraction\Public</Filter>
     </ClInclude>
   </ItemGroup>
