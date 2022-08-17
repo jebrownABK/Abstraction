@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "Abstraction",
-			"Path": "C:\\Users\\jebrown\\OneDrive - Activision Publishing\\Documents\\Unreal Projects\\Abstraction\\Abstraction\\Source\\Abstraction.Target.cs",
+			"Path": "C:\\Users\\jebrown\\Abstraction\\Source\\Abstraction.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "AbstractionEditor",
-			"Path": "C:\\Users\\jebrown\\OneDrive - Activision Publishing\\Documents\\Unreal Projects\\Abstraction\\Abstraction\\Source\\AbstractionEditor.Target.cs",
+			"Path": "C:\\Users\\jebrown\\Abstraction\\Source\\AbstractionEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]

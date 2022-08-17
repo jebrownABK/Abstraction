@@ -1,0 +1,15 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\jebrown\\abstraction\\intermediate\\build\\win64\\unrealeditor\\inc\\abstraction\\doorinteractioncomponent.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\jebrown\\abstraction\\intermediate\\build\\win64\\abstractioneditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\jebrown\\abstraction\\intermediate\\build\\win64\\unrealeditor\\development\\abstraction\\definitions.abstraction.h",
+            "c:\\users\\jebrown\\abstraction\\source\\abstraction\\public\\doorinteractioncomponent.h",
+            "c:\\users\\jebrown\\abstraction\\intermediate\\build\\win64\\unrealeditor\\inc\\abstraction\\doorinteractioncomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

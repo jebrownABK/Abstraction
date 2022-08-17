@@ -1,12 +1,12 @@
 {
     "Version": "1.1",
     "Data": {
-        "Source": "c:\\users\\jebrown\\onedrive - activision publishing\\documents\\unreal projects\\abstraction\\abstraction\\source\\abstraction\\abstraction.cpp",
+        "Source": "c:\\users\\jebrown\\abstraction\\source\\abstraction\\abstraction.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\jebrown\\onedrive - activision publishing\\documents\\unreal projects\\abstraction\\abstraction\\intermediate\\build\\win64\\abstractioneditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "PCH": "c:\\users\\jebrown\\abstraction\\intermediate\\build\\win64\\abstractioneditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
         "Includes": [
-            "c:\\users\\jebrown\\onedrive - activision publishing\\documents\\unreal projects\\abstraction\\abstraction\\intermediate\\build\\win64\\unrealeditor\\development\\abstraction\\definitions.abstraction.h",
-            "c:\\users\\jebrown\\onedrive - activision publishing\\documents\\unreal projects\\abstraction\\abstraction\\source\\abstraction\\abstraction.h"
+            "c:\\users\\jebrown\\abstraction\\intermediate\\build\\win64\\unrealeditor\\development\\abstraction\\definitions.abstraction.h",
+            "c:\\users\\jebrown\\abstraction\\source\\abstraction\\abstraction.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

@@ -1,17 +1,17 @@
 {
     "Version": "1.1",
     "Data": {
-        "Source": "c:\\users\\jebrown\\onedrive - activision publishing\\documents\\unreal projects\\abstraction\\abstraction\\intermediate\\build\\win64\\unrealeditor\\inc\\abstraction\\abstractiongamemodebase.gen.cpp",
+        "Source": "c:\\users\\jebrown\\abstraction\\intermediate\\build\\win64\\unrealeditor\\inc\\abstraction\\abstractiongamemodebase.gen.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\jebrown\\onedrive - activision publishing\\documents\\unreal projects\\abstraction\\abstraction\\intermediate\\build\\win64\\abstractioneditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "PCH": "c:\\users\\jebrown\\abstraction\\intermediate\\build\\win64\\abstractioneditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
         "Includes": [
-            "c:\\users\\jebrown\\onedrive - activision publishing\\documents\\unreal projects\\abstraction\\abstraction\\intermediate\\build\\win64\\unrealeditor\\development\\abstraction\\definitions.abstraction.h",
-            "c:\\users\\jebrown\\onedrive - activision publishing\\documents\\unreal projects\\abstraction\\abstraction\\source\\abstraction\\abstractiongamemodebase.h",
+            "c:\\users\\jebrown\\abstraction\\intermediate\\build\\win64\\unrealeditor\\development\\abstraction\\definitions.abstraction.h",
+            "c:\\users\\jebrown\\abstraction\\source\\abstraction\\abstractiongamemodebase.h",
             "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
             "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
             "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
             "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
-            "c:\\users\\jebrown\\onedrive - activision publishing\\documents\\unreal projects\\abstraction\\abstraction\\intermediate\\build\\win64\\unrealeditor\\inc\\abstraction\\abstractiongamemodebase.generated.h"
+            "c:\\users\\jebrown\\abstraction\\intermediate\\build\\win64\\unrealeditor\\inc\\abstraction\\abstractiongamemodebase.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
