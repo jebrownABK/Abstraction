@@ -775,3 +775,477 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.08.17-20.56.22:838][121]LogFileHelpers: Saving map 'AbstractTestLevel' took 0.026
 [2022.08.17-20.56.22:848][121]AssetCheck: New page: Asset Save: AbstractTestLevel
 [2022.08.17-20.56.22:848][121]LogContentValidation: Display: Validating World /Game/Maps/AbstractTestLevel.AbstractTestLevel
+[2022.08.17-20.58.14:483][941]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Actors/BP_InteractableDoor.BP_InteractableDoor_C
+[2022.08.17-20.58.14:483][941]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Actors/BP_InteractableDoor.BP_InteractableDoor_C
+[2022.08.17-20.58.14:484][941]LogActorFactory: Actor Factory spawned Blueprint /Game/Actors/BP_InteractableDoor.BP_InteractableDoor as actor: BP_InteractableDoor_C /Game/Maps/AbstractTestLevel.AbstractTestLevel:PersistentLevel.BP_InteractableDoor_C_2
+[2022.08.17-20.58.14:484][941]LogActorFactory: Actor Factory spawned Blueprint /Game/Actors/BP_InteractableDoor.BP_InteractableDoor as actor: BP_InteractableDoor_C /Game/Maps/AbstractTestLevel.AbstractTestLevel:PersistentLevel.BP_InteractableDoor_C_2
+[2022.08.17-20.58.16:674][ 71]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Actors/BP_InteractableDoor.BP_InteractableDoor_C
+[2022.08.17-20.58.16:674][ 71]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Actors/BP_InteractableDoor.BP_InteractableDoor_C
+[2022.08.17-20.58.16:674][ 71]LogActorFactory: Actor Factory spawned Blueprint /Game/Actors/BP_InteractableDoor.BP_InteractableDoor as actor: BP_InteractableDoor_C /Game/Maps/AbstractTestLevel.AbstractTestLevel:PersistentLevel.BP_InteractableDoor_C_3
+[2022.08.17-20.58.16:674][ 71]LogActorFactory: Actor Factory spawned Blueprint /Game/Actors/BP_InteractableDoor.BP_InteractableDoor as actor: BP_InteractableDoor_C /Game/Maps/AbstractTestLevel.AbstractTestLevel:PersistentLevel.BP_InteractableDoor_C_3
+[2022.08.17-20.58.30:479][897]LogSlate: Took 0.000220 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.08.17-20.59.27:442][300]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/2x1_Door_and_Frame_Frame.2x1_Door_and_Frame_Frame
+[2022.08.17-20.59.27:442][300]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/2x1_Door_and_Frame_Frame.2x1_Door_and_Frame_Frame
+[2022.08.17-20.59.27:442][300]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/2x1_Door_and_Frame_Frame.2x1_Door_and_Frame_Frame as actor: StaticMeshActor /Game/Maps/AbstractTestLevel.AbstractTestLevel:PersistentLevel.StaticMeshActor_0
+[2022.08.17-20.59.28:409][358]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/2x1_Door_and_Frame_Frame.2x1_Door_and_Frame_Frame
+[2022.08.17-20.59.28:409][358]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/2x1_Door_and_Frame_Frame.2x1_Door_and_Frame_Frame
+[2022.08.17-20.59.28:409][358]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/2x1_Door_and_Frame_Frame.2x1_Door_and_Frame_Frame as actor: StaticMeshActor /Game/Maps/AbstractTestLevel.AbstractTestLevel:PersistentLevel.StaticMeshActor_2
+[2022.08.17-21.00.07:591][700]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2022.08.17-21.00.07:592][700]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2022.08.17-21.00.38:124][528]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.08.17-21.00.38:130][528]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.17-21.00.38:130][528]PIE: New page: PIE session: AbstractTestLevel (Aug 17, 2022, 11:00:38 AM)
+[2022.08.17-21.00.38:133][528]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.08.17-21.00.38:133][528]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.08.17-21.00.38:133][528]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_AbstractTestLevel
+[2022.08.17-21.00.38:135][528]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002275s)
+[2022.08.17-21.00.38:135][528]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/AbstractTestLevel.AbstractTestLevel to /Game/Maps/UEDPIE_0_AbstractTestLevel.AbstractTestLevel (0.002324s)
+[2022.08.17-21.00.38:135][528]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.17-21.00.38:135][528]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.17-21.00.38:136][528]LogAIModule: Creating AISystem for world AbstractTestLevel
+[2022.08.17-21.00.38:136][528]LogPlayLevel: PIE: World Init took: (0.000557s)
+[2022.08.17-21.00.38:142][528]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.08.17-21.00.38:143][528]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.08.17-21.00.38:143][528]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.17-21.00.38:143][528]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.17-21.00.38:143][528]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.17-21.00.38:143][528]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.17-21.00.38:143][528]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.17-21.00.38:143][528]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.17-21.00.38:143][528]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.17-21.00.38:143][528]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.17-21.00.38:143][528]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.17-21.00.38:143][528]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.17-21.00.38:143][528]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.17-21.00.38:146][528]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.17-21.00.38:157][528]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.08.17-21.00.38:157][528]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.17-21.00.38:157][528]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.17-21.00.38:157][528]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.17-21.00.38:158][528]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.08.17-21.00.38:158][528]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2022.08.17-21.00.38:160][528]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.08.17-21.00.38:160][528]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.08.17-21.00.38:160][528]LogInit: FAudioDevice initialized.
+[2022.08.17-21.00.38:160][528]LogAudio: Display: Audio Device (ID: 2) registered with world 'AbstractTestLevel'.
+[2022.08.17-21.00.38:194][528]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_MatPreviewMesh_02.SM_MatPreviewMesh_02 should be resaved to improve async compilation performance.
+[2022.08.17-21.00.38:195][528]LogLoad: Game class is 'CustomGameMode_C'
+[2022.08.17-21.00.38:195][528]LogWorld: Bringing World /Game/Maps/UEDPIE_0_AbstractTestLevel.AbstractTestLevel up for play (max tick rate 60) at 2022.08.17-16.00.38
+[2022.08.17-21.00.38:196][528]LogWorld: Bringing up level for play took: 0.000746
+[2022.08.17-21.00.38:198][528]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2022.08.17-21.00.38:211][528]PIE: Server logged in
+[2022.08.17-21.00.38:212][528]PIE: Play in editor total start time 0.083 seconds.
+[2022.08.17-21.00.38:260][528]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/StarterContent/Props/SM_MatPreviewMesh_02.SM_MatPreviewMesh_02 being ready before playing
+[2022.08.17-21.00.38:301][530]LogSlate: Took 0.000245 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.08.17-21.00.45:834][976]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.17-21.00.45:834][976]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_AbstractTestLevel
+[2022.08.17-21.00.45:834][976]LogWorld: UWorld::CleanupWorld for AbstractTestLevel, bSessionEnded=true, bCleanupResources=true
+[2022.08.17-21.00.45:834][976]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-21.00.45:847][976]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.17-21.00.45:849][976]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-21.00.45:856][976]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.17-21.00.45:856][976]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.08.17-21.00.45:858][976]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.08.17-21.00.45:861][976]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.17-21.00.45:863][976]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.08.17-21.00.45:930][979]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2022.08.17-21.02.01:718][219]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2022.08.17-21.02.01:718][219]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2022.08.17-21.02.26:522][705]MapCheck: New page: Map Check
+[2022.08.17-21.02.26:531][705]LogSlate: Took 0.000165 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.08.17-21.02.26:535][705]Cmd: MAP REBUILD ALLVISIBLE
+[2022.08.17-21.02.26:536][705]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2022.08.17-21.02.26:536][705]LogWorld: UWorld::CleanupWorld for AbstractTestLevel, bSessionEnded=true, bCleanupResources=false
+[2022.08.17-21.02.26:551][705]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2022.08.17-21.02.26:551][705]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2022.08.17-21.02.26:551][705]LogNavigationDataBuild: Display:    Building navigation data using WITH_CHAOS.
+[2022.08.17-21.02.26:558][705]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.08.17-21.02.26:583][705]LogLevel: Display: Export Material TexCoord Scales took 0.024 seconds.
+[2022.08.17-21.02.26:583][705]TextureStreamingBuild: Display: Build Texture Streaming took 0.001 seconds.
+[2022.08.17-21.02.26:589][705]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2022.08.17-21.02.26:591][705]LightingResults: New page: Lighting Build - Aug 17, 2022, 11:02:26 AM
+[2022.08.17-21.02.26:625][705]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.08.17-21.02.26:669][705]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.08.17-21.02.26:679][705]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.08.17-21.02.27:201][705]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.08.17-21.02.27:201][705]LogSwarmInterface: [TryOpenConnection] Local Process ID is 24928
+[2022.08.17-21.02.32:537][705]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2022.08.17-21.02.32:537][705]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.08.17-21.02.32:537][705]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.08.17-21.02.32:537][705]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.08.17-21.02.32:537][705]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.08.17-21.02.32:537][705]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.08.17-21.02.32:679][705]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2022.08.17-21.02.32:679][705]MapCheck: New page: AbstractTestLevel - Aug 17, 2022, 11:02:32 AM
+[2022.08.17-21.02.32:680][705]MapCheck: Warning: Wall_C_5 Static mesh actor has NULL StaticMesh property 
+[2022.08.17-21.02.32:680][705]MapCheck: Warning: Wall_C_3 Static mesh actor has NULL StaticMesh property 
+[2022.08.17-21.02.32:680][705]MapCheck: Warning: Wall_C_3 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2022.08.17-21.02.32:680][705]MapCheck: Warning: Wall_C_7 Static mesh actor has NULL StaticMesh property 
+[2022.08.17-21.02.32:680][705]MapCheck: Warning: Wall_C_7 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2022.08.17-21.02.32:680][705]MapCheck: Warning: Wall_C_9 Static mesh actor has NULL StaticMesh property 
+[2022.08.17-21.02.32:680][705]MapCheck: Warning: Wall_C_11 Static mesh actor has NULL StaticMesh property 
+[2022.08.17-21.02.32:680][705]MapCheck: Warning: Wall_C_13 Static mesh actor has NULL StaticMesh property 
+[2022.08.17-21.02.32:680][705]MapCheck: Warning: Wall_C_14 Static mesh actor has NULL StaticMesh property 
+[2022.08.17-21.02.32:680][705]MapCheck: Warning: Wall_C_1 Static mesh actor has NULL StaticMesh property 
+[2022.08.17-21.02.32:680][705]MapCheck: Map check complete: 0 Error(s), 10 Warning(s), took 0.672ms to complete.
+[2022.08.17-21.02.32:680][705]LogEditorBuildUtils: Build time 0:06
+[2022.08.17-21.02.32:784][705]LogShaderCompilers: Display: ================================================
+[2022.08.17-21.02.32:784][705]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.08.17-21.02.32:784][705]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.08.17-21.02.32:784][705]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.08.17-21.02.32:784][705]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.08.17-21.02.32:784][705]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.08.17-21.02.32:784][705]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.08.17-21.02.32:784][705]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.08.17-21.02.32:784][705]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.08.17-21.02.32:784][705]LogShaderCompilers: Display: ================================================
+[2022.08.17-21.02.33:281][707]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.08.17-21.02.35:482][713]Job is a success!
+[2022.08.17-21.02.36:000][714]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.009s
+[2022.08.17-21.02.36:000][714]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2022.08.17-21.02.36:000][714]LogVolumetricLightmapImport:      BrickData (all levels) 0.2Mb
+[2022.08.17-21.02.36:000][714]LogVolumetricLightmapImport:      Bricks at depth
+[2022.08.17-21.02.36:000][714]LogVolumetricLightmapImport:          0: 2.0% covering 100.0% of volume
+[2022.08.17-21.02.36:000][714]LogVolumetricLightmapImport:          1: 8.0% covering 6.2% of volume
+[2022.08.17-21.02.36:000][714]LogVolumetricLightmapImport:          2: 90.0% covering 1.1% of volume
+[2022.08.17-21.02.36:000][714]LogVolumetricLightmapImport:      Bricks in each level
+[2022.08.17-21.02.36:000][714]LogVolumetricLightmapImport:          AbstractTestLevel 			 50 bricks 	 100.0% (Persistent Level)
+[2022.08.17-21.02.36:018][714]LogTexture: Display: Building textures: /Game/Maps/AbstractTestLevel_BuiltData.AbstractTestLevel_BuiltData:SkyOcclusion1_1 (TFO_AutoDXT, 512X256 X1X1) (Required Memory Estimate: 3.33334 MB), EncodeSpeed: Fast
+[2022.08.17-21.02.36:022][714]LogTexture: Display: Building textures: /Game/Maps/AbstractTestLevel_BuiltData.AbstractTestLevel_BuiltData:HQ_Lightmap1_1 (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2022.08.17-21.02.36:027][714]LogTexture: Display: Building textures: /Game/Maps/AbstractTestLevel_BuiltData.AbstractTestLevel_BuiltData:LQ_Lightmap_1_1 (TFO_DXT1, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2022.08.17-21.02.36:033][714]LogTexture: Display: Building textures: /Game/Maps/AbstractTestLevel_BuiltData.AbstractTestLevel_BuiltData:SkyOcclusion1_2 (TFO_AutoDXT, 64X32 X1X1) (Required Memory Estimate: 0.05209 MB), EncodeSpeed: Fast
+[2022.08.17-21.02.36:033][714]LogTexture: Display: Building textures: /Game/Maps/AbstractTestLevel_BuiltData.AbstractTestLevel_BuiltData:HQ_Lightmap1_2 (TFO_AutoDXT, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.08.17-21.02.36:034][714]LogTexture: Display: Building textures: /Game/Maps/AbstractTestLevel_BuiltData.AbstractTestLevel_BuiltData:LQ_Lightmap_1_2 (TFO_DXT1, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.08.17-21.02.36:044][714]LogTexture: Display: Building textures: /Game/Maps/AbstractTestLevel_BuiltData.AbstractTestLevel_BuiltData:ShadowMapTexture2D_0 (G8, 512X128 X1X1) (Required Memory Estimate: 0.416675 MB), EncodeSpeed: Fast
+[2022.08.17-21.02.36:062][714]Lightmass on ABNA14061350: 2.20 sec total, 111 ms importing, 3 ms setup, 121 ms photons, 1.96 sec processing, 0 us extra exporting [8/8 mappings]. Threads: 36.6 sec total, 2.46 sec processing.
+[2022.08.17-21.02.36:062][714]LogStaticLightingSystem: AbstractTestLevel_BuiltData storing lightmap data for 8 meshes in 2 LightmapResourceClusters (4.0 Meshes per cluster).
+[2022.08.17-21.02.36:082][714]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2022.08.17-21.02.36:105][714]LogStaticLightingSystem: Illumination: 9.13 sec (26 ms encoding lightmaps, 11 ms encoding shadowmaps)
+[2022.08.17-21.02.36:105][714]LogStaticLightingSystem: Lightmap texture memory:  0.8 MB (0.8 MB streaming, 0.0 MB non-streaming), 4 textures
+[2022.08.17-21.02.36:105][714]LogStaticLightingSystem: Shadowmap texture memory: 0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 2 textures
+[2022.08.17-21.02.36:546][714]DumpUnbuiltLightIteractions
+[2022.08.17-21.02.36:546][714]Lights with unbuilt interactions: 0
+[2022.08.17-21.02.36:546][714]
+[2022.08.17-21.02.36:546][714]Primitives with unbuilt interactions: 0
+[2022.08.17-21.02.36:663][714]LogTexture: Display: Building textures: /Game/Maps/AbstractTestLevel_BuiltData.AbstractTestLevel_BuiltData:NewReflectionComponentTextureD6C57B644F03DADF4F2699848FAEA3C3 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2022.08.17-21.02.36:702][715]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.08.17-21.02.36:703][715]MapCheck: New page: AbstractTestLevel - Aug 17, 2022, 11:02:36 AM
+[2022.08.17-21.02.36:703][715]MapCheck: Warning: Wall_C_5 Static mesh actor has NULL StaticMesh property 
+[2022.08.17-21.02.36:703][715]MapCheck: Warning: Wall_C_3 Static mesh actor has NULL StaticMesh property 
+[2022.08.17-21.02.36:703][715]MapCheck: Warning: Wall_C_3 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2022.08.17-21.02.36:703][715]MapCheck: Warning: Wall_C_7 Static mesh actor has NULL StaticMesh property 
+[2022.08.17-21.02.36:703][715]MapCheck: Warning: Wall_C_7 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2022.08.17-21.02.36:703][715]MapCheck: Warning: Wall_C_9 Static mesh actor has NULL StaticMesh property 
+[2022.08.17-21.02.36:703][715]MapCheck: Warning: Wall_C_11 Static mesh actor has NULL StaticMesh property 
+[2022.08.17-21.02.36:703][715]MapCheck: Warning: Wall_C_13 Static mesh actor has NULL StaticMesh property 
+[2022.08.17-21.02.36:703][715]MapCheck: Warning: Wall_C_14 Static mesh actor has NULL StaticMesh property 
+[2022.08.17-21.02.36:703][715]MapCheck: Warning: Wall_C_1 Static mesh actor has NULL StaticMesh property 
+[2022.08.17-21.02.36:703][715]MapCheck: Map check complete: 0 Error(s), 10 Warning(s), took 0.532ms to complete.
+[2022.08.17-21.02.56:250][938]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.08.17-21.02.56:255][938]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.17-21.02.56:255][938]PIE: New page: PIE session: AbstractTestLevel (Aug 17, 2022, 11:02:56 AM)
+[2022.08.17-21.02.56:283][938]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_AbstractTestLevel
+[2022.08.17-21.02.56:286][938]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003503s)
+[2022.08.17-21.02.56:286][938]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/AbstractTestLevel.AbstractTestLevel to /Game/Maps/UEDPIE_0_AbstractTestLevel.AbstractTestLevel (0.003624s)
+[2022.08.17-21.02.56:286][938]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.17-21.02.56:286][938]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.17-21.02.56:287][938]LogAIModule: Creating AISystem for world AbstractTestLevel
+[2022.08.17-21.02.56:287][938]LogPlayLevel: PIE: World Init took: (0.000628s)
+[2022.08.17-21.02.56:296][938]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.08.17-21.02.56:297][938]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.08.17-21.02.56:297][938]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.17-21.02.56:297][938]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.17-21.02.56:297][938]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.17-21.02.56:297][938]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.17-21.02.56:297][938]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.17-21.02.56:297][938]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.17-21.02.56:297][938]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.17-21.02.56:297][938]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.17-21.02.56:297][938]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.17-21.02.56:297][938]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.17-21.02.56:297][938]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.17-21.02.56:299][938]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.17-21.02.56:310][938]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.08.17-21.02.56:310][938]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.17-21.02.56:310][938]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.17-21.02.56:310][938]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.17-21.02.56:311][938]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2022.08.17-21.02.56:311][938]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2022.08.17-21.02.56:313][938]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2022.08.17-21.02.56:313][938]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2022.08.17-21.02.56:313][938]LogInit: FAudioDevice initialized.
+[2022.08.17-21.02.56:313][938]LogAudio: Display: Audio Device (ID: 3) registered with world 'AbstractTestLevel'.
+[2022.08.17-21.02.56:321][938]LogLoad: Game class is 'CustomGameMode_C'
+[2022.08.17-21.02.56:322][938]LogWorld: Bringing World /Game/Maps/UEDPIE_0_AbstractTestLevel.AbstractTestLevel up for play (max tick rate 60) at 2022.08.17-16.02.56
+[2022.08.17-21.02.56:322][938]LogWorld: Bringing up level for play took: 0.000699
+[2022.08.17-21.02.56:323][938]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2022.08.17-21.02.56:324][938]PIE: Server logged in
+[2022.08.17-21.02.56:325][938]PIE: Play in editor total start time 0.071 seconds.
+[2022.08.17-21.03.12:223][887]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.17-21.03.12:223][887]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_AbstractTestLevel
+[2022.08.17-21.03.12:223][887]LogWorld: UWorld::CleanupWorld for AbstractTestLevel, bSessionEnded=true, bCleanupResources=true
+[2022.08.17-21.03.12:223][887]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-21.03.12:234][887]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.17-21.03.12:235][887]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-21.03.12:241][887]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.17-21.03.12:242][887]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.08.17-21.03.12:243][887]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.08.17-21.03.12:246][887]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.17-21.03.12:247][887]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.08.17-21.03.12:317][890]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2022.08.17-21.04.01:233][819]LogSlate: Window 'Message Log' being destroyed
+[2022.08.17-21.04.01:241][819]LogSlate: Window 'Message Log' being destroyed
+[2022.08.17-21.06.47:654][963]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.08.17-21.06.47:671][963]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/AbstractTestLevel_Auto1
+[2022.08.17-21.06.47:672][963]LogSavePackage: Moving '../../../../../../Users/jebrown/Abstraction/Saved/AbstractTestLevel_Auto1434B0C4A43A5AA5B07F42EB65C6D2E9A.tmp' to '../../../../../../Users/jebrown/Abstraction/Saved/Autosaves/Game/Maps/AbstractTestLevel_Auto1.umap'
+[2022.08.17-21.06.47:673][963]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/AbstractTestLevel' took 0.029
+[2022.08.17-21.06.47:673][963]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.029
+[2022.08.17-21.16.48:248][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.08.17-21.16.48:248][754]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/AbstractTestLevel' took 0.010
+[2022.08.17-21.18.49:632][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.08.17-21.18.49:662][159]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/AbstractTestLevel" FILE="../../../../../../Users/jebrown/Abstraction/Content/Maps/AbstractTestLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.17-21.18.49:667][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.13ms
+[2022.08.17-21.18.49:678][159]LogSavePackage: Moving output files for package: /Game/Maps/AbstractTestLevel
+[2022.08.17-21.18.49:679][159]LogSavePackage: Moving '../../../../../../Users/jebrown/Abstraction/Saved/AbstractTestLevel1F2439C8485056029BA6538EA2D00072.tmp' to '../../../../../../Users/jebrown/Abstraction/Content/Maps/AbstractTestLevel.umap'
+[2022.08.17-21.18.49:685][159]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Maps/AbstractTestLevel_BuiltData
+[2022.08.17-21.18.49:685][159]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/AbstractTestLevel_BuiltData" FILE="../../../../../../Users/jebrown/Abstraction/Content/Maps/AbstractTestLevel_BuiltData.uasset" SILENT=true
+[2022.08.17-21.18.49:706][159]LogSavePackage: Moving output files for package: /Game/Maps/AbstractTestLevel_BuiltData
+[2022.08.17-21.18.49:706][159]LogSavePackage: Moving '../../../../../../Users/jebrown/Abstraction/Saved/AbstractTestLevel_BuiltData8DEB66F949F4BE4B91E825BD4D672ED4.tmp' to '../../../../../../Users/jebrown/Abstraction/Content/Maps/AbstractTestLevel_BuiltData.uasset'
+[2022.08.17-21.18.49:707][159]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Maps/AbstractTestLevel_BuiltData
+[2022.08.17-21.18.49:707][159]LogFileHelpers: Saving map 'AbstractTestLevel' took 0.046
+[2022.08.17-21.18.49:707][159]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/AbstractTestLevel_BuiltData" FILE="../../../../../../Users/jebrown/Abstraction/Content/Maps/AbstractTestLevel_BuiltData.uasset" SILENT=true
+[2022.08.17-21.18.49:727][159]LogSavePackage: Moving output files for package: /Game/Maps/AbstractTestLevel_BuiltData
+[2022.08.17-21.18.49:727][159]LogSavePackage: Moving '../../../../../../Users/jebrown/Abstraction/Saved/AbstractTestLevel_BuiltData9585867240B3E6A7A9392CBA230E07AC.tmp' to '../../../../../../Users/jebrown/Abstraction/Content/Maps/AbstractTestLevel_BuiltData.uasset'
+[2022.08.17-21.18.49:738][159]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.17-21.18.49:738][159]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/AbstractTestLevel_BuiltData.AbstractTestLevel_BuiltData
+[2022.08.17-21.18.49:738][159]LogContentValidation: Display: Validating World /Game/Maps/AbstractTestLevel.AbstractTestLevel
+[2022.08.17-21.18.55:650][507]Cmd: EDIT COPY
+[2022.08.17-21.19.06:510][153]Cmd: EDIT PASTE
+[2022.08.17-21.20.12:498][103]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.08.17-21.20.12:503][103]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.17-21.20.12:503][103]PIE: New page: PIE session: AbstractTestLevel (Aug 17, 2022, 11:20:12 AM)
+[2022.08.17-21.20.12:552][103]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_AbstractTestLevel
+[2022.08.17-21.20.12:558][103]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005512s)
+[2022.08.17-21.20.12:558][103]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/AbstractTestLevel.AbstractTestLevel to /Game/Maps/UEDPIE_0_AbstractTestLevel.AbstractTestLevel (0.005727s)
+[2022.08.17-21.20.12:558][103]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.17-21.20.12:558][103]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.17-21.20.12:559][103]LogAIModule: Creating AISystem for world AbstractTestLevel
+[2022.08.17-21.20.12:559][103]LogPlayLevel: PIE: World Init took: (0.000871s)
+[2022.08.17-21.20.12:568][103]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2022.08.17-21.20.12:569][103]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.08.17-21.20.12:569][103]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.17-21.20.12:569][103]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.17-21.20.12:569][103]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.17-21.20.12:569][103]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.17-21.20.12:569][103]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.17-21.20.12:569][103]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.17-21.20.12:569][103]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.17-21.20.12:569][103]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.17-21.20.12:569][103]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.17-21.20.12:569][103]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.17-21.20.12:569][103]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.17-21.20.12:571][103]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.17-21.20.12:584][103]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.08.17-21.20.12:584][103]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.17-21.20.12:584][103]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.17-21.20.12:584][103]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.17-21.20.12:585][103]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2022.08.17-21.20.12:585][103]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2022.08.17-21.20.12:586][103]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2022.08.17-21.20.12:586][103]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2022.08.17-21.20.12:586][103]LogInit: FAudioDevice initialized.
+[2022.08.17-21.20.12:586][103]LogAudio: Display: Audio Device (ID: 4) registered with world 'AbstractTestLevel'.
+[2022.08.17-21.20.12:600][103]LogLoad: Game class is 'CustomGameMode_C'
+[2022.08.17-21.20.12:601][103]LogWorld: Bringing World /Game/Maps/UEDPIE_0_AbstractTestLevel.AbstractTestLevel up for play (max tick rate 60) at 2022.08.17-16.20.12
+[2022.08.17-21.20.12:601][103]LogWorld: Bringing up level for play took: 0.000770
+[2022.08.17-21.20.12:602][103]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2022.08.17-21.20.12:604][103]PIE: Server logged in
+[2022.08.17-21.20.12:605][103]PIE: Play in editor total start time 0.103 seconds.
+[2022.08.17-21.20.24:193][792]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.17-21.20.24:193][792]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_AbstractTestLevel
+[2022.08.17-21.20.24:193][792]LogWorld: UWorld::CleanupWorld for AbstractTestLevel, bSessionEnded=true, bCleanupResources=true
+[2022.08.17-21.20.24:194][792]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-21.20.24:203][792]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.17-21.20.24:204][792]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-21.20.24:212][792]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.17-21.20.24:213][792]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.08.17-21.20.24:214][792]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.08.17-21.20.24:217][792]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.17-21.20.24:218][792]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.08.17-21.20.24:263][794]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.08.17-21.20.38:063][621]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2022.08.17-21.20.38:063][621]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2022.08.17-21.20.41:265][813]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.08.17-21.20.41:269][813]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.17-21.20.41:269][813]PIE: New page: PIE session: AbstractTestLevel (Aug 17, 2022, 11:20:41 AM)
+[2022.08.17-21.20.41:269][813]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_AbstractTestLevel
+[2022.08.17-21.20.41:271][813]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002148s)
+[2022.08.17-21.20.41:271][813]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/AbstractTestLevel.AbstractTestLevel to /Game/Maps/UEDPIE_0_AbstractTestLevel.AbstractTestLevel (0.002195s)
+[2022.08.17-21.20.41:271][813]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.17-21.20.41:271][813]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.17-21.20.41:272][813]LogAIModule: Creating AISystem for world AbstractTestLevel
+[2022.08.17-21.20.41:272][813]LogPlayLevel: PIE: World Init took: (0.000561s)
+[2022.08.17-21.20.41:277][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.08.17-21.20.41:278][813]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.08.17-21.20.41:278][813]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.17-21.20.41:278][813]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.17-21.20.41:278][813]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.17-21.20.41:278][813]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.17-21.20.41:278][813]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.17-21.20.41:278][813]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.17-21.20.41:278][813]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.17-21.20.41:278][813]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.17-21.20.41:278][813]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.17-21.20.41:278][813]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.17-21.20.41:278][813]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.17-21.20.41:280][813]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.17-21.20.41:292][813]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.08.17-21.20.41:292][813]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.17-21.20.41:292][813]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.17-21.20.41:292][813]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.17-21.20.41:292][813]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2022.08.17-21.20.41:292][813]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2022.08.17-21.20.41:293][813]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2022.08.17-21.20.41:293][813]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2022.08.17-21.20.41:293][813]LogInit: FAudioDevice initialized.
+[2022.08.17-21.20.41:293][813]LogAudio: Display: Audio Device (ID: 5) registered with world 'AbstractTestLevel'.
+[2022.08.17-21.20.41:303][813]LogLoad: Game class is 'CustomGameMode_C'
+[2022.08.17-21.20.41:303][813]LogWorld: Bringing World /Game/Maps/UEDPIE_0_AbstractTestLevel.AbstractTestLevel up for play (max tick rate 60) at 2022.08.17-16.20.41
+[2022.08.17-21.20.41:304][813]LogWorld: Bringing up level for play took: 0.000711
+[2022.08.17-21.20.41:305][813]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2022.08.17-21.20.41:306][813]PIE: Server logged in
+[2022.08.17-21.20.41:307][813]PIE: Play in editor total start time 0.039 seconds.
+[2022.08.17-21.21.13:472][737]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.17-21.21.13:473][737]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_AbstractTestLevel
+[2022.08.17-21.21.13:473][737]LogWorld: UWorld::CleanupWorld for AbstractTestLevel, bSessionEnded=true, bCleanupResources=true
+[2022.08.17-21.21.13:473][737]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-21.21.13:489][737]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.17-21.21.13:491][737]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-21.21.13:499][737]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.17-21.21.13:499][737]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.08.17-21.21.13:501][737]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.08.17-21.21.13:505][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2022.08.17-21.21.13:554][739]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2022.08.17-21.21.19:536][ 96]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.08.17-21.21.19:541][ 96]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.17-21.21.19:541][ 96]PIE: New page: PIE session: AbstractTestLevel (Aug 17, 2022, 11:21:19 AM)
+[2022.08.17-21.21.19:541][ 96]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_AbstractTestLevel
+[2022.08.17-21.21.19:543][ 96]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002149s)
+[2022.08.17-21.21.19:543][ 96]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/AbstractTestLevel.AbstractTestLevel to /Game/Maps/UEDPIE_0_AbstractTestLevel.AbstractTestLevel (0.002196s)
+[2022.08.17-21.21.19:543][ 96]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.17-21.21.19:543][ 96]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.17-21.21.19:543][ 96]LogAIModule: Creating AISystem for world AbstractTestLevel
+[2022.08.17-21.21.19:544][ 96]LogPlayLevel: PIE: World Init took: (0.000599s)
+[2022.08.17-21.21.19:548][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.08.17-21.21.19:549][ 96]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.08.17-21.21.19:549][ 96]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.17-21.21.19:549][ 96]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.17-21.21.19:549][ 96]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.17-21.21.19:549][ 96]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.17-21.21.19:549][ 96]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.17-21.21.19:549][ 96]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.17-21.21.19:549][ 96]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.17-21.21.19:549][ 96]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.17-21.21.19:549][ 96]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.17-21.21.19:549][ 96]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.17-21.21.19:549][ 96]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.17-21.21.19:551][ 96]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.17-21.21.19:562][ 96]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.08.17-21.21.19:564][ 96]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.17-21.21.19:564][ 96]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.17-21.21.19:564][ 96]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.17-21.21.19:564][ 96]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2022.08.17-21.21.19:564][ 96]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2022.08.17-21.21.19:566][ 96]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2022.08.17-21.21.19:566][ 96]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2022.08.17-21.21.19:566][ 96]LogInit: FAudioDevice initialized.
+[2022.08.17-21.21.19:566][ 96]LogAudio: Display: Audio Device (ID: 6) registered with world 'AbstractTestLevel'.
+[2022.08.17-21.21.19:577][ 96]LogLoad: Game class is 'CustomGameMode_C'
+[2022.08.17-21.21.19:578][ 96]LogWorld: Bringing World /Game/Maps/UEDPIE_0_AbstractTestLevel.AbstractTestLevel up for play (max tick rate 60) at 2022.08.17-16.21.19
+[2022.08.17-21.21.19:578][ 96]LogWorld: Bringing up level for play took: 0.000688
+[2022.08.17-21.21.19:579][ 96]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2022.08.17-21.21.19:581][ 96]PIE: Server logged in
+[2022.08.17-21.21.19:581][ 96]PIE: Play in editor total start time 0.041 seconds.
+[2022.08.17-21.21.30:743][760]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.17-21.21.30:743][760]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_AbstractTestLevel
+[2022.08.17-21.21.30:743][760]LogWorld: UWorld::CleanupWorld for AbstractTestLevel, bSessionEnded=true, bCleanupResources=true
+[2022.08.17-21.21.30:743][760]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-21.21.30:754][760]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.17-21.21.30:756][760]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-21.21.30:764][760]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.17-21.21.30:764][760]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2022.08.17-21.21.30:766][760]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2022.08.17-21.21.30:770][760]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2022.08.17-21.21.30:803][761]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2022.08.17-21.21.47:854][781]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.08.17-21.21.47:859][781]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.17-21.21.47:859][781]PIE: New page: PIE session: AbstractTestLevel (Aug 17, 2022, 11:21:47 AM)
+[2022.08.17-21.21.47:859][781]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_AbstractTestLevel
+[2022.08.17-21.21.47:861][781]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002175s)
+[2022.08.17-21.21.47:861][781]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/AbstractTestLevel.AbstractTestLevel to /Game/Maps/UEDPIE_0_AbstractTestLevel.AbstractTestLevel (0.002220s)
+[2022.08.17-21.21.47:861][781]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.17-21.21.47:861][781]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.17-21.21.47:862][781]LogAIModule: Creating AISystem for world AbstractTestLevel
+[2022.08.17-21.21.47:862][781]LogPlayLevel: PIE: World Init took: (0.000528s)
+[2022.08.17-21.21.47:867][781]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2022.08.17-21.21.47:867][781]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.08.17-21.21.47:867][781]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.17-21.21.47:867][781]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.17-21.21.47:867][781]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.17-21.21.47:867][781]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.17-21.21.47:867][781]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.17-21.21.47:867][781]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.17-21.21.47:867][781]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.17-21.21.47:867][781]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.17-21.21.47:868][781]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.17-21.21.47:868][781]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.17-21.21.47:868][781]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.17-21.21.47:870][781]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.17-21.21.47:881][781]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.08.17-21.21.47:881][781]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.17-21.21.47:881][781]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.17-21.21.47:881][781]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.17-21.21.47:881][781]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2022.08.17-21.21.47:881][781]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2022.08.17-21.21.47:883][781]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2022.08.17-21.21.47:883][781]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2022.08.17-21.21.47:883][781]LogInit: FAudioDevice initialized.
+[2022.08.17-21.21.47:883][781]LogAudio: Display: Audio Device (ID: 7) registered with world 'AbstractTestLevel'.
+[2022.08.17-21.21.47:896][781]LogLoad: Game class is 'CustomGameMode_C'
+[2022.08.17-21.21.47:897][781]LogWorld: Bringing World /Game/Maps/UEDPIE_0_AbstractTestLevel.AbstractTestLevel up for play (max tick rate 60) at 2022.08.17-16.21.47
+[2022.08.17-21.21.47:897][781]LogWorld: Bringing up level for play took: 0.000698
+[2022.08.17-21.21.47:898][781]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2022.08.17-21.21.47:899][781]PIE: Server logged in
+[2022.08.17-21.21.47:900][781]PIE: Play in editor total start time 0.041 seconds.
+[2022.08.17-21.22.08:772][ 28]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.17-21.22.08:772][ 28]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_AbstractTestLevel
+[2022.08.17-21.22.08:772][ 28]LogWorld: UWorld::CleanupWorld for AbstractTestLevel, bSessionEnded=true, bCleanupResources=true
+[2022.08.17-21.22.08:772][ 28]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-21.22.08:780][ 28]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.17-21.22.08:782][ 28]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.17-21.22.08:789][ 28]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.17-21.22.08:790][ 28]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2022.08.17-21.22.08:791][ 28]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2022.08.17-21.22.08:795][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.08.17-21.22.08:865][ 31]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2022.08.17-21.22.12:530][250]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2022.08.17-21.22.12:552][250]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/AbstractTestLevel" FILE="../../../../../../Users/jebrown/Abstraction/Content/Maps/AbstractTestLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.17-21.22.12:557][250]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2022.08.17-21.22.12:570][250]LogSavePackage: Moving output files for package: /Game/Maps/AbstractTestLevel
+[2022.08.17-21.22.12:570][250]LogSavePackage: Moving '../../../../../../Users/jebrown/Abstraction/Saved/AbstractTestLevelC158956A4E086B1E945131A23D6ADB27.tmp' to '../../../../../../Users/jebrown/Abstraction/Content/Maps/AbstractTestLevel.umap'
+[2022.08.17-21.22.12:577][250]LogFileHelpers: No new changes to save!
+[2022.08.17-21.22.12:577][250]LogFileHelpers: Saving map 'AbstractTestLevel' took 0.024
+[2022.08.17-21.22.12:585][250]AssetCheck: New page: Asset Save: AbstractTestLevel
+[2022.08.17-21.22.12:585][250]LogContentValidation: Display: Validating World /Game/Maps/AbstractTestLevel.AbstractTestLevel
+[2022.08.17-21.22.58:166][ 22]LogSlate: Took 0.000226 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.08.17-21.27.10:816][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.08.17-21.27.10:842][162]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/AbstractTestLevel" FILE="../../../../../../Users/jebrown/Abstraction/Content/Maps/AbstractTestLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.17-21.27.10:847][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.14ms
+[2022.08.17-21.27.10:860][162]LogSavePackage: Moving output files for package: /Game/Maps/AbstractTestLevel
+[2022.08.17-21.27.10:860][162]LogSavePackage: Moving '../../../../../../Users/jebrown/Abstraction/Saved/AbstractTestLevelCF621B7B437595FF8364C683E8B4D6F0.tmp' to '../../../../../../Users/jebrown/Abstraction/Content/Maps/AbstractTestLevel.umap'
+[2022.08.17-21.27.10:866][162]LogFileHelpers: No new changes to save!
+[2022.08.17-21.27.10:866][162]LogFileHelpers: Saving map 'AbstractTestLevel' took 0.024
+[2022.08.17-21.27.10:876][162]AssetCheck: New page: Asset Save: AbstractTestLevel
+[2022.08.17-21.27.10:876][162]LogContentValidation: Display: Validating World /Game/Maps/AbstractTestLevel.AbstractTestLevel
