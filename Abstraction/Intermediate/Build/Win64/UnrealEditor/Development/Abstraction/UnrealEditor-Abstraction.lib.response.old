@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Abstraction.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\jebrown\OneDrive - Activision Publishing\Documents\Unreal Projects\Abstraction\Abstraction\Intermediate\Build\Win64\AbstractionEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\jebrown\OneDrive - Activision Publishing\Documents\Unreal Projects\Abstraction\Abstraction\Intermediate\Build\Win64\UnrealEditor\Development\Abstraction\Abstraction.cpp.obj"
+"C:\Users\jebrown\OneDrive - Activision Publishing\Documents\Unreal Projects\Abstraction\Abstraction\Intermediate\Build\Win64\UnrealEditor\Development\Abstraction\AbstractionGameModeBase.cpp.obj"
+"C:\Users\jebrown\OneDrive - Activision Publishing\Documents\Unreal Projects\Abstraction\Abstraction\Intermediate\Build\Win64\UnrealEditor\Development\Abstraction\Abstraction.init.gen.cpp.obj"
+"C:\Users\jebrown\OneDrive - Activision Publishing\Documents\Unreal Projects\Abstraction\Abstraction\Intermediate\Build\Win64\UnrealEditor\Development\Abstraction\AbstractionGameModeBase.gen.cpp.obj"
+"C:\Users\jebrown\OneDrive - Activision Publishing\Documents\Unreal Projects\Abstraction\Abstraction\Intermediate\Build\Win64\UnrealEditor\Development\Abstraction\Default.rc2.res"
+/OUT:"C:\Users\jebrown\OneDrive - Activision Publishing\Documents\Unreal Projects\Abstraction\Abstraction\Intermediate\Build\Win64\UnrealEditor\Development\Abstraction\UnrealEditor-Abstraction.lib"
