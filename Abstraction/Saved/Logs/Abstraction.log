@@ -1297,3 +1297,15 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.08.18-15.35.14:050][193]LogFileHelpers: No new changes to save!
 [2022.08.18-15.35.14:059][193]AssetCheck: New page: Asset Save: AbstractTestLevel
 [2022.08.18-15.35.14:059][193]LogContentValidation: Display: Validating World /Game/Maps/AbstractTestLevel.AbstractTestLevel
+[2022.08.18-15.45.10:038][364]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.08.18-15.45.10:053][364]LogSavePackage: Moving output files for package: /Game/Maps/AbstractTestLevel
+[2022.08.18-15.45.10:054][364]LogSavePackage: Moving '../../../../../../Users/jebrown/source/Unreal/Abstraction/Abstraction/Saved/AbstractTestLevel80BAA9C54D1E61E7FB1F35AFB6610AF4.tmp' to '../../../../../../Users/jebrown/source/Unreal/Abstraction/Abstraction/Content/Maps/AbstractTestLevel.umap'
+[2022.08.18-15.45.10:061][364]LogFileHelpers: No new changes to save!
+[2022.08.18-15.45.10:070][364]AssetCheck: New page: Asset Save: AbstractTestLevel
+[2022.08.18-15.45.10:071][364]LogContentValidation: Display: Validating World /Game/Maps/AbstractTestLevel.AbstractTestLevel
+[2022.08.18-15.46.10:738][992]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.08.18-15.46.10:754][992]LogSavePackage: Moving output files for package: /Game/Maps/AbstractTestLevel
+[2022.08.18-15.46.10:755][992]LogSavePackage: Moving '../../../../../../Users/jebrown/source/Unreal/Abstraction/Abstraction/Saved/AbstractTestLevelB24677814FFEDB83DB3A0ABA93CF59B8.tmp' to '../../../../../../Users/jebrown/source/Unreal/Abstraction/Abstraction/Content/Maps/AbstractTestLevel.umap'
+[2022.08.18-15.46.10:761][992]LogFileHelpers: No new changes to save!
+[2022.08.18-15.46.10:770][992]AssetCheck: New page: Asset Save: AbstractTestLevel
+[2022.08.18-15.46.10:770][992]LogContentValidation: Display: Validating World /Game/Maps/AbstractTestLevel.AbstractTestLevel
