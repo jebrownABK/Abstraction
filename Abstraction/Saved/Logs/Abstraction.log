@@ -1108,3 +1108,155 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.08.18-14.47.37:590][104]LogFileHelpers: No new changes to save!
 [2022.08.18-14.47.37:599][104]AssetCheck: New page: Asset Save: AbstractTestLevel
 [2022.08.18-14.47.37:599][104]LogContentValidation: Display: Validating World /Game/Maps/AbstractTestLevel.AbstractTestLevel
+[2022.08.18-14.48.31:711][517]LogViewport: Scene viewport resized to 1655x813, mode Windowed.
+[2022.08.18-14.48.31:810][517]LogViewport: Scene viewport resized to 1595x814, mode Windowed.
+[2022.08.18-14.48.31:877][517]LogViewport: Scene viewport resized to 1566x814, mode Windowed.
+[2022.08.18-14.48.31:944][517]LogViewport: Scene viewport resized to 1545x806, mode Windowed.
+[2022.08.18-14.48.32:011][517]LogViewport: Scene viewport resized to 1513x800, mode Windowed.
+[2022.08.18-14.48.32:078][517]LogViewport: Scene viewport resized to 1508x800, mode Windowed.
+[2022.08.18-14.48.32:143][517]LogViewport: Scene viewport resized to 1512x804, mode Windowed.
+[2022.08.18-14.48.32:211][517]LogViewport: Scene viewport resized to 1525x814, mode Windowed.
+[2022.08.18-14.48.32:260][517]LogViewport: Scene viewport resized to 1535x814, mode Windowed.
+[2022.08.18-14.48.32:328][517]LogViewport: Scene viewport resized to 1545x814, mode Windowed.
+[2022.08.18-14.48.32:395][517]LogViewport: Scene viewport resized to 1548x813, mode Windowed.
+[2022.08.18-14.48.32:782][517]LogViewport: Scene viewport resized to 1547x813, mode Windowed.
+[2022.08.18-14.48.32:862][517]LogViewport: Scene viewport resized to 1545x813, mode Windowed.
+[2022.08.18-14.48.33:078][517]LogViewport: Scene viewport resized to 1544x811, mode Windowed.
+[2022.08.18-14.48.33:347][517]LogViewport: Scene viewport resized to 1544x810, mode Windowed.
+[2022.08.18-14.48.33:445][517]LogViewport: Scene viewport resized to 1544x808, mode Windowed.
+[2022.08.18-14.55.48:944][478]Cmd: EDIT COPY
+[2022.08.18-14.55.49:360][503]Cmd: EDIT PASTE
+[2022.08.18-14.56.08:275][633]Cmd: EDIT COPY
+[2022.08.18-14.56.08:542][649]Cmd: EDIT PASTE
+[2022.08.18-14.56.15:151][ 43]Cmd: EDIT COPY
+[2022.08.18-14.56.15:451][ 61]Cmd: EDIT PASTE
+[2022.08.18-14.57.09:559][294]Cmd: EDIT COPY
+[2022.08.18-14.57.09:843][311]Cmd: EDIT PASTE
+[2022.08.18-14.57.16:797][726]Cmd: TRANSACTION UNDO
+[2022.08.18-14.57.16:797][726]LogEditorTransaction: Undo Move Elements
+[2022.08.18-14.57.18:871][828]Cmd: TRANSACTION UNDO
+[2022.08.18-14.57.18:872][828]LogEditorTransaction: Undo Paste
+[2022.08.18-14.57.19:503][865]Cmd: TRANSACTION UNDO
+[2022.08.18-14.57.19:503][865]LogEditorTransaction: Undo Clicking on Elements
+[2022.08.18-14.57.43:639][302]Cmd: EDIT COPY
+[2022.08.18-14.57.43:939][320]Cmd: EDIT PASTE
+[2022.08.18-14.58.53:866][492]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.08.18-14.58.53:886][492]LogSavePackage: Moving output files for package: /Game/Maps/AbstractTestLevel
+[2022.08.18-14.58.53:887][492]LogSavePackage: Moving '../../../../../../Users/jebrown/source/Unreal/Abstraction/Abstraction/Saved/AbstractTestLevel4A91B0724D170FECDBCB5787B01C30BD.tmp' to '../../../../../../Users/jebrown/source/Unreal/Abstraction/Abstraction/Content/Maps/AbstractTestLevel.umap'
+[2022.08.18-14.58.53:893][492]LogFileHelpers: No new changes to save!
+[2022.08.18-14.58.53:904][492]AssetCheck: New page: Asset Save: AbstractTestLevel
+[2022.08.18-14.58.53:904][492]LogContentValidation: Display: Validating World /Game/Maps/AbstractTestLevel.AbstractTestLevel
+[2022.08.18-14.59.09:175][402]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.08.18-14.59.09:180][402]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.18-14.59.09:180][402]PIE: New page: PIE session: AbstractTestLevel (Aug 18, 2022, 4:59:09 AM)
+[2022.08.18-14.59.09:230][402]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_AbstractTestLevel
+[2022.08.18-14.59.09:234][402]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004589s)
+[2022.08.18-14.59.09:234][402]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/AbstractTestLevel.AbstractTestLevel to /Game/Maps/UEDPIE_0_AbstractTestLevel.AbstractTestLevel (0.004758s)
+[2022.08.18-14.59.09:234][402]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.18-14.59.09:234][402]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.18-14.59.09:235][402]LogAIModule: Creating AISystem for world AbstractTestLevel
+[2022.08.18-14.59.09:235][402]LogPlayLevel: PIE: World Init took: (0.000688s)
+[2022.08.18-14.59.09:256][402]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.08.18-14.59.09:257][402]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.08.18-14.59.09:257][402]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.18-14.59.09:258][402]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.18-14.59.09:258][402]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.18-14.59.09:258][402]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.18-14.59.09:258][402]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.18-14.59.09:258][402]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.18-14.59.09:258][402]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.18-14.59.09:258][402]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.18-14.59.09:258][402]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.18-14.59.09:258][402]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.18-14.59.09:258][402]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.18-14.59.09:260][402]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.18-14.59.09:271][402]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.08.18-14.59.09:272][402]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.18-14.59.09:272][402]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.18-14.59.09:272][402]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.18-14.59.09:273][402]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2022.08.18-14.59.09:273][402]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2022.08.18-14.59.09:274][402]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2022.08.18-14.59.09:274][402]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2022.08.18-14.59.09:274][402]LogInit: FAudioDevice initialized.
+[2022.08.18-14.59.09:274][402]LogAudio: Display: Audio Device (ID: 5) registered with world 'AbstractTestLevel'.
+[2022.08.18-14.59.09:287][402]LogLoad: Game class is 'CustomGameMode_C'
+[2022.08.18-14.59.09:288][402]LogWorld: Bringing World /Game/Maps/UEDPIE_0_AbstractTestLevel.AbstractTestLevel up for play (max tick rate 60) at 2022.08.18-09.59.09
+[2022.08.18-14.59.09:288][402]LogWorld: Bringing up level for play took: 0.000965
+[2022.08.18-14.59.09:290][402]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2022.08.18-14.59.09:291][402]PIE: Server logged in
+[2022.08.18-14.59.09:291][402]PIE: Play in editor total start time 0.112 seconds.
+[2022.08.18-14.59.25:939][394]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.18-14.59.25:939][394]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_AbstractTestLevel
+[2022.08.18-14.59.25:940][394]LogWorld: UWorld::CleanupWorld for AbstractTestLevel, bSessionEnded=true, bCleanupResources=true
+[2022.08.18-14.59.25:940][394]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.18-14.59.25:957][394]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.18-14.59.25:959][394]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.18-14.59.25:978][394]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.18-14.59.25:978][394]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.08.18-14.59.25:980][394]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.08.18-14.59.25:984][394]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.08.18-14.59.26:017][395]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2022.08.18-14.59.38:473][128]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.08.18-14.59.38:478][128]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.18-14.59.38:478][128]PIE: New page: PIE session: AbstractTestLevel (Aug 18, 2022, 4:59:38 AM)
+[2022.08.18-14.59.38:478][128]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_AbstractTestLevel
+[2022.08.18-14.59.38:480][128]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002656s)
+[2022.08.18-14.59.38:480][128]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/AbstractTestLevel.AbstractTestLevel to /Game/Maps/UEDPIE_0_AbstractTestLevel.AbstractTestLevel (0.002710s)
+[2022.08.18-14.59.38:481][128]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.18-14.59.38:481][128]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.18-14.59.38:481][128]LogAIModule: Creating AISystem for world AbstractTestLevel
+[2022.08.18-14.59.38:481][128]LogPlayLevel: PIE: World Init took: (0.000507s)
+[2022.08.18-14.59.38:498][128]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.08.18-14.59.38:500][128]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.08.18-14.59.38:500][128]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.18-14.59.38:500][128]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.18-14.59.38:500][128]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.18-14.59.38:500][128]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.18-14.59.38:500][128]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.18-14.59.38:500][128]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.18-14.59.38:500][128]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.18-14.59.38:500][128]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.18-14.59.38:500][128]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.18-14.59.38:500][128]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.18-14.59.38:500][128]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.18-14.59.38:502][128]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.18-14.59.38:513][128]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.08.18-14.59.38:514][128]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.18-14.59.38:514][128]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.18-14.59.38:514][128]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.18-14.59.38:514][128]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2022.08.18-14.59.38:514][128]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2022.08.18-14.59.38:515][128]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2022.08.18-14.59.38:515][128]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2022.08.18-14.59.38:515][128]LogInit: FAudioDevice initialized.
+[2022.08.18-14.59.38:515][128]LogAudio: Display: Audio Device (ID: 6) registered with world 'AbstractTestLevel'.
+[2022.08.18-14.59.38:526][128]LogLoad: Game class is 'CustomGameMode_C'
+[2022.08.18-14.59.38:527][128]LogWorld: Bringing World /Game/Maps/UEDPIE_0_AbstractTestLevel.AbstractTestLevel up for play (max tick rate 60) at 2022.08.18-09.59.38
+[2022.08.18-14.59.38:527][128]LogWorld: Bringing up level for play took: 0.000901
+[2022.08.18-14.59.38:528][128]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2022.08.18-14.59.38:529][128]PIE: Server logged in
+[2022.08.18-14.59.38:530][128]PIE: Play in editor total start time 0.052 seconds.
+[2022.08.18-14.59.48:690][731]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.18-14.59.48:690][731]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_AbstractTestLevel
+[2022.08.18-14.59.48:690][731]LogWorld: UWorld::CleanupWorld for AbstractTestLevel, bSessionEnded=true, bCleanupResources=true
+[2022.08.18-14.59.48:690][731]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.18-14.59.48:705][731]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.18-14.59.48:707][731]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.18-14.59.48:726][731]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.18-14.59.48:726][731]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2022.08.18-14.59.48:728][731]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2022.08.18-14.59.48:732][731]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.08.18-14.59.48:765][732]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2022.08.18-14.59.50:075][805]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.08.18-14.59.50:089][805]LogSavePackage: Moving output files for package: /Game/Maps/AbstractTestLevel
+[2022.08.18-14.59.50:090][805]LogSavePackage: Moving '../../../../../../Users/jebrown/source/Unreal/Abstraction/Abstraction/Saved/AbstractTestLevel00A6A2AA47F1EA30335A62B93FE05CD9.tmp' to '../../../../../../Users/jebrown/source/Unreal/Abstraction/Abstraction/Content/Maps/AbstractTestLevel.umap'
+[2022.08.18-14.59.50:095][805]LogFileHelpers: No new changes to save!
+[2022.08.18-14.59.50:104][805]AssetCheck: New page: Asset Save: AbstractTestLevel
+[2022.08.18-14.59.50:105][805]LogContentValidation: Display: Validating World /Game/Maps/AbstractTestLevel.AbstractTestLevel
+[2022.08.18-15.02.47:817][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.08.18-15.02.47:836][ 29]LogSavePackage: Moving output files for package: /Game/Maps/AbstractTestLevel
+[2022.08.18-15.02.47:836][ 29]LogSavePackage: Moving '../../../../../../Users/jebrown/source/Unreal/Abstraction/Abstraction/Saved/AbstractTestLevelD1B1BDD24B96DE9C6FDF5587B786BE96.tmp' to '../../../../../../Users/jebrown/source/Unreal/Abstraction/Abstraction/Content/Maps/AbstractTestLevel.umap'
+[2022.08.18-15.02.47:842][ 29]LogFileHelpers: No new changes to save!
+[2022.08.18-15.02.47:850][ 29]AssetCheck: New page: Asset Save: AbstractTestLevel
+[2022.08.18-15.02.47:850][ 29]LogContentValidation: Display: Validating World /Game/Maps/AbstractTestLevel.AbstractTestLevel
