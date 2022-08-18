@@ -1261,3 +1261,39 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.08.18-15.02.47:850][ 29]AssetCheck: New page: Asset Save: AbstractTestLevel
 [2022.08.18-15.02.47:850][ 29]LogContentValidation: Display: Validating World /Game/Maps/AbstractTestLevel.AbstractTestLevel
 [2022.08.18-15.06.48:089][821]Cmd: EDIT COPY
+[2022.08.18-15.12.48:185][260]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.08.18-15.12.48:205][260]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/AbstractTestLevel_Auto4
+[2022.08.18-15.12.48:205][260]LogSavePackage: Moving '../../../../../../Users/jebrown/source/Unreal/Abstraction/Abstraction/Saved/AbstractTestLevel_Auto4CB0925494F5327E39A3575B220045D9A.tmp' to '../../../../../../Users/jebrown/source/Unreal/Abstraction/Abstraction/Saved/Autosaves/Game/Maps/AbstractTestLevel_Auto4.umap'
+[2022.08.18-15.12.48:207][260]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/AbstractTestLevel' took 0.041
+[2022.08.18-15.12.48:207][260]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.041
+[2022.08.18-15.31.09:115][620]LogDerivedDataCache: C:/Users/jebrown/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.041 and deleted 0 file(s) with total size 0 MiB.
+[2022.08.18-15.31.30:074][873]Cmd: EDIT COPY
+[2022.08.18-15.31.30:391][892]Cmd: EDIT PASTE
+[2022.08.18-15.32.14:044][490]Cmd: EDIT COPY
+[2022.08.18-15.32.15:399][570]Cmd: EDIT PASTE
+[2022.08.18-15.32.23:381][ 44]Cmd: DELETE
+[2022.08.18-15.32.23:381][ 44]Cmd: ACTOR DELETE
+[2022.08.18-15.32.23:383][ 44]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.08.18-15.32.23:402][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.08.18-15.32.23:405][ 44]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2022.08.18-15.32.25:282][156]Cmd: DELETE
+[2022.08.18-15.32.25:282][156]Cmd: ACTOR DELETE
+[2022.08.18-15.32.25:283][156]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.08.18-15.32.25:301][156]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.08.18-15.32.25:302][156]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2022.08.18-15.33.09:698][597]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.08.18-15.33.09:721][597]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/AbstractTestLevel_Auto5
+[2022.08.18-15.33.09:722][597]LogSavePackage: Moving '../../../../../../Users/jebrown/source/Unreal/Abstraction/Abstraction/Saved/AbstractTestLevel_Auto53F14A7924BED96B204F34190C3E06822.tmp' to '../../../../../../Users/jebrown/source/Unreal/Abstraction/Abstraction/Saved/Autosaves/Game/Maps/AbstractTestLevel_Auto5.umap'
+[2022.08.18-15.33.09:724][597]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/AbstractTestLevel' took 0.045
+[2022.08.18-15.33.09:724][597]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.045
+[2022.08.18-15.33.16:335][618]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (Jess’s Solo Pro Stereo), InstanceID=1
+[2022.08.18-15.33.16:335][618]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=20404
+[2022.08.18-15.33.16:670][618]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=44100, DeviceID={0.0.0.00000000}.{19e5a532-1444-4f26-b0e7-88a0a2c61df4}, Name=Headphones (Jess’s Solo Pro Stereo)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=66.42
+[2022.08.18-15.33.16:670][618]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.08.18-15.33.16:672][619]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.08.18-15.35.14:029][193]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2022.08.18-15.35.14:044][193]LogSavePackage: Moving output files for package: /Game/Maps/AbstractTestLevel
+[2022.08.18-15.35.14:044][193]LogSavePackage: Moving '../../../../../../Users/jebrown/source/Unreal/Abstraction/Abstraction/Saved/AbstractTestLevelDF1BC50A43BA1F0F4C686192389FAC69.tmp' to '../../../../../../Users/jebrown/source/Unreal/Abstraction/Abstraction/Content/Maps/AbstractTestLevel.umap'
+[2022.08.18-15.35.14:050][193]LogFileHelpers: No new changes to save!
+[2022.08.18-15.35.14:059][193]AssetCheck: New page: Asset Save: AbstractTestLevel
+[2022.08.18-15.35.14:059][193]LogContentValidation: Display: Validating World /Game/Maps/AbstractTestLevel.AbstractTestLevel
